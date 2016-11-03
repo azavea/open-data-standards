@@ -8,5 +8,5 @@
    * [Areas of Significant Opportunity](areas_of_significant_opportunity.md)
 * [Contribute](contribute.md)
 * [Overview](overview.md)
-* [General Standards](general_standards.md)
+* [Generic Standards](general_standards.md)
 
