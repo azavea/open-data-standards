@@ -18,7 +18,7 @@ Philadelphia, PA 19123
 
 
 
-# Overview {#overview}
+# Overview
 
 ## Executive Summary
 This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards.
