@@ -14,9 +14,3 @@ The criteria used to select the standards includes the following:
 *   *Machine-readable* - Based on JSON, CSV, XML or similar structure
 
 *   *Adoption and used* - Adopted by at least one major US cities or heavily used by an aggregator of municipal data
-
-
-
----
-
-Go to next section...
