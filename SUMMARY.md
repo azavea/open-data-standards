@@ -8,7 +8,7 @@
    * [Areas of Significant Opportunity](areas_of_significant_opportunity.md)
 * [Contribute](contribute.md)
 * [Overview](overview.md)
-* [Generic Standards](general_standards.md)
+* [Generic Standards](genericl_standards.md)
    * [Data Catalogs](data_catalogs.md)
    * [Geospatial Data](geospatial_data.md)
 
