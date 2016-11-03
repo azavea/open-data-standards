@@ -112,34 +112,36 @@ Traffic volume is monitored by several entities.The US Department of Transportat
 
 *   Additional US DoT Resources:[http://www.fhwa.dot.gov/policyinformation/travelmonitoring.cfm](http://www.fhwa.dot.gov/policyinformation/travelmonitoring.cfm)
 
-Real-time Travel Conditions
 
-| **Current Status** | ![](export/assets/image12png.png)![](export/assets/image15png.png)http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, Not Open. |
+### Real-time Travel Conditions
+
+| **Current Status** | Formal, Not Open. |
 | --- | --- |
 | **Potential Implementing Agencies** | State Department of Transportation Agencies |
 | **Potential Founding/Sponsoring Organizations** | Federal Highway Administration |
 
 **Background**
-
+<br>
 The 511 system was established by the Federal Highway Administration but is implemented separately by each state.Most states have now adopted the standard, and federal funding is provided to support additional extensions.The system provides data on incidents, construction, weather alerts, road closures and traffic speed.Though the “511” moniker implies a phone-based system, many states now provide mobile applications, online maps, and data feeds.However, the system does not have a standard publishing format and it’s use may well suffer from increased use of in-car navigation systems and existing map platforms, such as Google Maps Traffic, that rely on large amounts of crowd-sourced data, rather than a centralized data collection process.
 
 **Additional Resources**
-
+<br>
 *   National Traffic and Road Closure - [http://www.fhwa.dot.gov/trafficinfo/index.htm](http://www.fhwa.dot.gov/trafficinfo/index.htm)
 
 *   Status of 511 Deployment - [http://www.fhwa.dot.gov/trafficinfo/511.htm](http://www.fhwa.dot.gov/trafficinfo/511.htm)
 
 *   511 Guide - http://www.ops.fhwa.dot.gov/511/resources/publications/[511guide](http://www.ops.fhwa.dot.gov/511/resources/publications/511guide_ver3/511guide3.htm)_ver3/511guide3.htm
 
-Traffic Accidents
 
-| **Current Status** | ![](export/assets/image14png.png)![](export/assets/image09png.png)http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, Not Open. |
+### Traffic Accidents
+
+| **Current Status** | Formal, Not Open. |
 | --- | --- |
 | **Potential Implementing Agencies** | State and Local Departments of Transportation, traffic safety advocacy organizations, Regional Planning Organizations |
 | **Potential Founding/Sponsoring Organizations** | National Highway Traffic Safety Administration |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 While there are national standards for reporting crash records and information, the data is generally only required to be submitted to the National Highway Traffic Safety Administration.Therefore, the data is usually available only by request from the steward -- such as a state or local department of transportation. In 2016, the White House released 2015 traffic fatality information along with a call-to-action to analyze the data. However, no open data standard was adopted as part of this data release.
 
 Providing this data in a standardized, machine-readable format would enable civic developers and planners to better communicate this data to citizens.In addition, the public could be more responsive and aware of high crash areas and advocate for safer streets and better planning.
@@ -154,15 +156,16 @@ Providing this data in a standardized, machine-readable format would enable civi
 
 *   2015 Traffic Fatalities Data Released: A Call to Action to Download and Analyze - [https://www.transportation.gov/fastlane/2015-traffic-fatalities-data-has-just-been-released-call-action-download-and-analyze](https://www.transportation.gov/fastlane/2015-traffic-fatalities-data-has-just-been-released-call-action-download-and-analyze)
 
-Parking
 
-| **Current Status** | ![](export/assets/image08png.png)Formal Discussion |
+### Parking
+
+| **Current Status** | Formal Discussion |
 | --- | --- |
 | **Potential Implementing Agencies** | City governments -- streets and highway commissions, parking enforcement agencies |
 | **Potential Founding/Sponsoring Organizations** | Streetline |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Parking data – including lot locations, meter locations and times, street parking regulations, parking lot locations, pricing, availability – is in great demand but is not generally made available by public agencies.In many cities, there may not be a single source of such data with a mix of public and private parking providers.Standardizing and releasing parking data would enable drivers in congested areas to park quickly and efficiently, reducing carbon emissions and frustration.While a few U.S. cities have released some parking information, it remains a fragmented effort.There are several private firms attempting to improve access to parking data.The best open data example we found was in the Netherlands.
 
 **Additional Resources**
@@ -175,15 +178,16 @@ Parking data – including lot locations, meter locations and times, street park
 
 *   Netherlands (Beter Benutten)- [http://www.beterbenutten.nl/](http://www.beterbenutten.nl/)
 
-Bicycle Infrastructure and Routes
 
-| **Current Status** | ![](export/assets/image11png.png)Informal proposal specifically related to bike share systems |
+### Bicycle Infrastructure and Routes
+
+| **Current Status** | Informal proposal specifically related to bike share systems |
 | --- | --- |
 | **Potential Implementing Agencies** | Bike Share Providers, Municipal and County governments, Streets and Highway Commissions, Departments of Transportation |
 | **Potential Founding/Sponsoring Organizations** | Michael Schade, Mobility Lab |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 The importance of bicycle infrastructure is growing in the United States as more people use bicycles for both primary and secondary transportation.Public bicycle infrastructure includes bike lanes, dedicated trails, and parking locations.Several cities publish bike lane data and the OpenStreetMap community maintains a global OpenCycleMap of bicycle-related infrastructure.However, no standards have been developed for publishing the data.
 
 In addition to physical infrastructure, there has also been interest in tracking bicycle routes.Unlike the extensive infrastructure devoted to automobile traffic, there is less systematic data available on bicycle route preferences.Some cities are beginning to conduct bicycle traffic surveys but the data is not published in a standardized way.In a few cities, civic hackers have developed bicycle route tracking apps for mobile phones.
@@ -196,17 +200,18 @@ In addition to public infrastructure, bike share systems are now operational in 
 
 *   OpenCycleMap - [http://www.opencyclemap.org/](http://www.opencyclemap.org/)
 
-Public Health
 
-Flu Shots
+## Public Health
 
-| **Current Status** | ![](export/assets/image07png.png)Some formal standards but limited adoption |
+### Flu Shots
+
+| **Current Status** | Some formal standards but limited adoption |
 | --- | --- |
 | **Potential Implementing Agencies** | Federal, State and Local Health Agencies |
 | **Potential Founding/Sponsoring Organizations** | Center for Disease Control (CDC) |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Flu vaccinations contribute to overall positive public health. In addition to directly reducing flu illness, the Center for Disease Control (CDC) states that flu vaccinations can help to reduce frequency of visits to the doctor, missed days of work and school, and flu-related hospitalizations. It is important that the general public not only has access to flu shots, but can easily find the location of facilities that offers flu vaccinations.
 
 Local public health officials typically aggregate information on the location of facilities that offer flu shots, but this information is not standardized or made available to the public via easy-to-use applications. Some cities, like Chicago, have developed applications that make the location data available to the public and standardized a data format for the location of facilities that provide flu shots. Other cities, like Philadelphia, are in the process of defining a standardized format.
@@ -219,20 +224,23 @@ The development of a standard data format will enable public health agencies to 
 
 *   City of Philadelphia Flu Shot Spec - [http://cityofphiladelphia.github.io/flu-shot-spec/](http://cityofphiladelphia.github.io/flu-shot-spec/)
 
-Justice and Public Safety
 
-Crime
+## Justice and Public Safety
 
-| **Current Status** | ![](export/assets/image10png.png)![](export/assets/image06png.png)http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, commercial, none are sufficiently established. |
+
+### Crime
+
+| **Current Status** | Formal, commercial, none are sufficiently established. |
 | --- | --- |
 | **Potential Implementing Agencies** | Local and State Police Organizations |
 | **Potential Founding/Sponsoring Organizations** | Federal Bureau of Investigation |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 There have been several efforts related to publication of crime data. Only one of these, an effort by a commercial company, is aimed at open, public data publishing. Each of the various efforts each deserve some mention, but we believe there remains significant opportunity to develop a standard that is similar to the Open311 system in the sense that it combines both an API and a data structure standard.
 
-SpotCrime Open Crime Standard
+
+#### SpotCrime Open Crime Standard
 
 SpotCrime, an online aggregator of crime data, has developed a prototype for crime reporting standard known as the SpotCrime Open Crime Standard (SOCS). SpotCrime also offers Catapult, a free software product to export crime records, which reports data in this new standard. However, the effort is based on the private company and does not yet appear to be used by any departments. With the addition of the right partners, we believe it might provide a good starting point for a useful standard. We also believe it would be most useful if it was designed to combine both data structure and API, similar to the Open311 standard.
 
@@ -240,7 +248,8 @@ SpotCrime, an online aggregator of crime data, has developed a prototype for cri
 
 *   SpotCrime Documentation: [http://blog.spotcrime.com/2014/03/the-spotcrime-open-crime-data-standard.html](http://blog.spotcrime.com/2014/03/the-spotcrime-open-crime-data-standard.html)
 
-UCR Crime Reports
+
+#### UCR Crime Reports
 
 The FBI facilitates the Uniform Crime Reports program through the Office of Management and Budget (OMB) which issues government-wide guidelines that “provide policy and procedural guidance to federal agencies for ensuring and maximizing the quality, objectivity, utility, and integrity of information (including statistical information) disseminated by federal agencies. This is a standard in reporting crime data but additional standards (and open standards) on other public safety data would be beneficial to those that maintain and analyze public safety data.
 
@@ -248,7 +257,8 @@ The FBI facilitates the Uniform Crime Reports program through the Office of Mana
 
 *   [http://www.fbi.gov/about-us/cjis/ucr/data_quality_guidelines](http://www.fbi.gov/about-us/cjis/ucr/data_quality_guidelines)
 
-National Information Exchange Model (NIEM)
+
+#### National Information Exchange Model (NIEM)
 
 NIEM is a community standard led by the US Department of Justice. The standard is an outgrowth of two earlier justice-related standards efforts, the Global Justice Information Sharing Initiative and initiatives by the Department of Homeland Security. NIEM is not aimed at publication of data to the public, but, rather, on the ability of different justice systems to interoperate. Further, its scope extends beyond crime reports to include arrests, property descriptions, emergency response and a host of other topics. The standard is now at version 3.0 and has been adopted by at least some jurisdictions in all 50 states. It is a very complex standard, however, and we do not believe it is appropriate as an open data standard aimed at publication to the general public.
 
@@ -256,7 +266,8 @@ NIEM is a community standard led by the US Department of Justice. The standard i
 
 *   [https://www.niem.gov/](https://www.niem.gov/)
 
-OGC Law Enforcement and Public Safety DWG
+
+#### OGC Law Enforcement and Public Safety DWG
 
 The Open Geospatial Consortium (OGC) has been gradually adding to the generic standards outlined above (see KML, GeoPackage, WMS, etc.) by developing domain-specific standards. One of these efforts is the Law Enforcement and Public Safety (LEAPS) Domain Working Group (DWG). The mission of the LEAPS DWG is to develop open geospatial standards for law enforcement, civil security and public safety. The working group includes representatives from several countries and is likely to generate standards with an international character. However, the group has yet to release any draft standards, and we do not currently believe its work will be relevant in the near future.
 
@@ -264,9 +275,10 @@ The Open Geospatial Consortium (OGC) has been gradually adding to the generic st
 
 *   [http://www.opengeospatial.org/projects/groups/leapsdwg](http://www.opengeospatial.org/projects/groups/leapsdwg)
 
-Courts
 
-| **Current Status** | ![](export/assets/image05png.png)No Progress |
+### Courts
+
+| **Current Status** | No Progress |
 | --- | --- |
 | **Potential Implementing Agencies** | Local, State and Federal Court Systems |
 | **Potential Founding/Sponsoring Organizations** | American Civil Liberties Union |
@@ -275,17 +287,18 @@ Courts
 
 Councils and administrative divisions in local government have received a great deal of attention for their open data efforts but the local judicial organizations have not. Open standards for court dockets, decisions, schedules and other judicial documents would greatly benefit the availability and usability of this material. Often, the data is published in PDF and other non-structured formats. Another significant impediment is the degree to which official court documents are processed and published by commercial firms and are only available through a paid subscription. Publishing in a machine readable and standardized formats that are openly available to the public would greatly increase the use within a jurisdiction and compare court records across regional areas.
 
-Environment and Ecosystems
 
-Environmental Sensors
+## Environment and Ecosystems
 
-| **Current Status** | ![](export/assets/image52png.png)Some formal standards but limited adoption |
+### Environmental Sensors
+
+| **Current Status** | Some formal standards but limited adoption |
 | --- | --- |
 | **Potential Implementing Agencies** | Commercial sensor developers, corporations required to monitor their pollutant levels, academic institutions |
 | **Potential Founding/Sponsoring Organizations** | Environmental Protection Agency, Open Geospatial Consortium, XMPP Standards Foundation |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Sensor data feeds of key air and water environmental metrics have been deployed for several decades in the United States.For example, the USGS has maintained electronic stream sensors for many years.While originally designed for real-time publication, the USGS now makes available machine-readable streams of data that can be collected and displayed.NOAA’s weather sensors are now augmented by thousands of smaller private weather sensors, many of which are made available as real-time streams of data through Weather Underground.
 
 Almost all environmental sensors have a location component to their output.Recognizing this, the Open Geospatial Consortium (OGC) developed a Sensor Web Enablement (SWE) working group and adopted several related standards – Sensor Planning Service (SPS) and Sensor Observation Service (SOS), SensorML, TransducerML, PUCK, Sensors &amp; Observations (S&amp;O), Sensor Alert Service (SAS), and Web Notification Service (WNS) – beginning in 2002.However, the standards are both complex and verbose and have not enjoyed broad adoption.More recently, the OGC has launched a new working group called Sensor Web for the Internet of Things (IOT).This new group is aimed at developed a more streamlined set of standards that are more in line with contemporary web standards.
@@ -310,15 +323,16 @@ These new efforts to develop sensor data standards are being driven by the rapid
 
 *   ESAR Overview - [http://www.exchangenetwork.net/standards/ESAR_Overview_01_06_2006_Final.pdf](http://www.exchangenetwork.net/standards/ESAR_Overview_01_06_2006_Final.pdf)
 
-Trees
 
-| **Current Status** | ![](export/assets/image49png.png)Proposed, not adopted. |
+### Trees
+
+| **Current Status** | Proposed, not adopted. |
 | --- | --- |
 | **Potential Implementing Agencies** | Parks and Forest Service |
 | **Potential Founding/Sponsoring Organizations** | The Foundation for Urban Forest Management |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Located in both street rights-of-way and parks, trees are an important part of the public infrastructure in many communities. Trees provide stormwater infiltration, carbon sequestration, energy use reduction and other ecosystem services value. They have also been demonstrated to increase both home values and biodiversity in many communities. Despite this important role, most cities do not have comprehensive databases of trees, but many of those cities that do have a tree inventory are publishing it.
 
 Though no generally accepted data standards for trees, and this is another opportunity for an organization. In 2002 the USDA Forest Service developed a white paper to address proper tree data collection and management. There is also a new partnership of arboriculture researchers and practitioners, the Urban Tree Growth and Longevity (UTLG) Working Group that has the potential to develop some standards in this domain.
@@ -329,17 +343,18 @@ Though no generally accepted data standards for trees, and this is another oppor
 
 *   Urban Tree Growth and Longevity (UTGL) Working Group - [http://www.urbantreegrowth.org/goals.html](http://www.urbantreegrowth.org/goals.html)
 
-Land Records
 
-Street Addresses
+## Land Records
 
-| **Current Status** | ![](export/assets/image48png.png)Formal Standards, Proposals |
+### Street Addresses
+
+| **Current Status** | Formal Standards, Proposals |
 | --- | --- |
 | **Potential Implementing Agencies** | Departments of Transportation, Streets and Highway Commissions, Governments |
 | **Potential Founding/Sponsoring Organizations** | URISA, Federal Geographic Data Committee |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Street address data is widely used and crucial to state and local government operations.It is usually available in one of two general forms:address ranges attached to a GIS road database, and as a list of valid addresses for a particular location.Due to the impact on postal delivery, emergency response, and other activities, there are several U.S. standards related to addressing.However, none of these standards have resulted in open data publishing standards at the municipal or state levels.The exception may be road centerline publication, which has been heavily influenced by the Census Bureau’s TIGER line program its GBF/DIME predecessor.
 
 While the OpenStreetMap database provides a way to encode address information, the most significant effort in this domain is the OpenAddresses project, which both enables upload of unique addresses and supports free download and open APIs for developers.
@@ -350,22 +365,23 @@ While the OpenStreetMap database provides a way to encode address information, t
 
 *   OpenAddresses - [http://openaddresses.io/](http://openaddresses.io/)
 
-Deed / Mortgage Registrations
 
-| **Current Status** | ![](export/assets/image51png.png)No Progress |
+### Deed / Mortgage Registrations
+
+| **Current Status** | No Progress |
 | --- | --- |
 | **Potential Implementing Agencies** | Local property information recording agencies (Register of Deeds, Clerk, Recorder) |
 | **Potential Founding/Sponsoring Organizations** | Property Records Industry Association, state or national associations of clerks and recorders |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 The County Clerk or Recorder registers many types of documents, including property title transfers (deeds), mortgages, mortgage satisfaction, wills. These documents are increasingly made available as digital data, but are rarely published in an open, machine-readable data format. There is significant opportunity to both improve the transparency of property records and provide better information on how communities are changing.
 
 **Additional Resources**
 
 *   Property Records Industry Association - [http://www.pria.us/](http://www.pria.us/)
 
-Land Administration Model (LADM)
+#### Land Administration Model (LADM)
 
 Though there are no data standards designed for publication of open data, the International Standards Organization (ISO) has developed a general land administration data model. This international standard for the land administration domain will, ideally, encourage the use of the data in civic applications and support sustainable development by speeding the use of proper land administration systems.
 
@@ -377,15 +393,15 @@ This standard may become more important as software tools are developed to suppo
 
 *   Summary of LADM by the International Federal of Surveyors - [http://www.fig.net/news/news_2013/ladm2013/01.pdf](http://www.fig.net/news/news_2013/ladm2013/01.pdf)
 
-Real Estate Sales
+### Real Estate Sales
 
-| **Current Status** | ![](export/assets/image50png.png)![](export/assets/image45png.png)http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, Not Open. |
+| **Current Status** | Formal, Not Open. |
 | --- | --- |
 | **Potential Implementing Agencies** | Real Estate Industry Partners (vendors, consultants, technology partners) |
 | **Potential Founding/Sponsoring Organizations** | Federal |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Real estate sales are largely carried out between private individuals or organizations, but due to taxation, deed registration and other activities, real estate transactions are of great importance to local governments. The data is generally available, though not always in a digital format, and there are no open standards for publishing the data.
 
 However, because much of the transaction is carried out in the private sector and involves a broad array of companies and services (brokers, title insurance, appraisers, mortgages, etc.), the Real Estate Standards Organization was established to develop and maintain the Real Estate Transaction Standard (RETS). The documentation is public, but the standard is complex, and it is primarily used to support system interoperability between corporate data systems. As such, it is not a good fit for use in publishing open data.
@@ -404,7 +420,8 @@ The US General Services Administration (GSA) has established a Federal Real Prop
 
 *   Federal Real Property Council - [http://www.gsa.gov/portal/content/104918](http://www.gsa.gov/portal/content/104918)
 
-Real Estate Tax and Appraisals
+
+### Real Estate Tax and Appraisals
 
 | **Current Status** | ![](export/assets/image44png.png)No Progress |
 | --- | --- |
@@ -412,24 +429,25 @@ Real Estate Tax and Appraisals
 | **Potential Founding/Sponsoring Organizations** | The Appraisal Foundation (authorized by Congress as the source for appraisal standards and appraiser qualifications) |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Real estate property tax assessment and tax paid by property owners is generally public information in most locations in the U.S. However, it is rarely made available through APIs or as bulk, machine-readable downloads. When it is, there are no data standards that would make the process more consistent between cities. Great potential exists for the creation of standards around not only tax values for properties but also the means for which tax values are calculated and disclosed to homeowners. This would be beneficial for property owners and buyers as well as individuals in the appraisal and realty industries.
 
 **Additional Resources**
 
 *   Uniform Standards of Professional Appraisal Practice (USPAP) – http://[www.uspap.org](http://www.uspap.org)/
 
-Following the Money
 
-Budget and Expenditures
+## Following the Money
 
-| **Current Status** | ![](export/assets/image47png.png)Informal discussion |
+### Budget and Expenditures
+
+| **Current Status** | Informal discussion |
 | --- | --- |
 | **Potential Implementing Agencies** | Local, State and Federal Governments |
 | **Potential Founding/Sponsoring Organizations** | Open Knowledge Foundation, Local government entities, Data Transparency Coalition |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Standard data formats for publication of municipal or other government budgets are not yet available. “Open budgeting” is usually part of a larger conversation regarding citizen participation in the budgeting process (“participatory budgeting”). The Open Knowledge Foundation (OKF) has developed a budget publication platform, OpenSpending, that is used by many governments around the world. The software is open source and it provides an API, which could serve as a foundation for an open budget standard. Socrata has also released applications specifically aimed at Open Budget and Open Expenditures. A candidate for City Controller in Philadelphia, Brett Mandel, successfully obtained a copy of the Philadelphia budget and developed an application that supported visualization and research on the local budget.
 
 Government expenditures are an additional, related opportunity for open data standards. The budget sets the overall blueprint for spending, but the companies and individuals on which the budget is spent are an important additional type of data. In May 2014, the Digital Accountability and Transparency Act (DATA Act) was signed into law and calls for open, standardized data and online publication. As the law is enacted, it may spur additional steps at the local level.
@@ -454,15 +472,16 @@ Government expenditures are an additional, related opportunity for open data sta
 
 *   World Bank resources on fiscal transparency - [http://wbi.worldbank.org/boost/tools-resources/topics/promoting-open-budgets/fiscal-transparency](http://wbi.worldbank.org/boost/tools-resources/topics/promoting-open-budgets/fiscal-transparency)
 
-Lobbying
 
-| **Current Status** | ![](export/assets/image46png.png)Informal Discussion |
+### Lobbying
+
+| **Current Status** | Informal Discussion |
 | --- | --- |
 | **Potential Implementing Agencies** | Lobbyists |
 | **Potential Founding/Sponsoring Organizations** | Sunlight Foundation |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Some states (for example: Indiana [http://www.in.gov/ilrc/2335.htm](http://www.in.gov/ilrc/2335.htm)) have made progress on lobbying data standards but no open standard exists. The Sunlight Foundation developed data recommendations and published a Municipal Lobbying Data Guidebook to help local policymakers and advocates create an environment of stronger lobbying disclosure.
 
 **Additional Resources**
@@ -471,15 +490,16 @@ Some states (for example: Indiana [http://www.in.gov/ilrc/2335.htm](http://www.i
 
 *   Sunlight Foundation Research - [http://sunlightfoundation.com/policy/municipal_lobbying/](http://sunlightfoundation.com/policy/municipal_lobbying/)
 
-Campaign Contributions
 
-| **Current Status** | ![](export/assets/image43png.png)Formal Discussion |
+### Campaign Contributions
+
+| **Current Status** | Formal Discussion |
 | --- | --- |
 | **Potential Implementing Agencies** | Local, State and Federal Election and Campaign Monitoring Agencies |
 | **Potential Founding/Sponsoring Organizations** | Sunlight Foundation |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Some effort has been made to promote the disclosure of campaign finance contributions as well as the creation of databases of this information but no formal standard exists.Because of the way address and other affiliation data is maintained by different states, it is incredibly difficult to use this valuable information across geographic regions and years.Due to the lack of standardized publication, organizations such as the Sunlight Foundation, MapLight, and the National Center for Money in State Politics make enormous investments in cleaning data before it can be used.
 
 However, the Sunlight Foundation has made substantial efforts to compile this data at the state and national level and make it available through a single download.More progress is needed to develop and encourage adoption of an open and universal standard.
@@ -492,17 +512,18 @@ However, the Sunlight Foundation has made substantial efforts to compile this da
 
 *   Open Secrets - [http://www.opensecrets.org/news/disclosure.php](http://www.opensecrets.org/news/disclosure.php)
 
-Other Topics
 
-Service Area Boundaries
+## Other Topics
 
-| **Current Status** | ![](export/assets/image63png.png)Not Established |
+### Service Area Boundaries
+
+| **Current Status** | Not Established |
 | --- | --- |
 | **Potential Implementing Agencies** | Local, State and Federal Governments |
 | **Potential Founding/Sponsoring Organizations** | Federal Geographic Data Committee |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 The United States has a particularly complex set of local administrative and jurisdictional boundaries. In addition, each municipal and county government usually has several sub-divisions designed for different administrative purposes.Some progress has been made in data standards for “Governmental Units and Other Geographic Area Boundaries”. This does not specifically relate to service areas but could encompass this boundary type. This standard was developed in May 2008 by the Federal Geographic Data Committee as part of their Geographic Information Framework Data Standard. This standard mainly defines governmental, administrative and boundary units. Nonetheless, this FGDC effort has not generally been adopted and we believe there is significant opportunity to develop a standard way for localities to publish service area boundaries in a standardized way.
 
 **Additional Resources**
