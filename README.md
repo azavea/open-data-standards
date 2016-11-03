@@ -14,163 +14,27 @@ Philadelphia, PA 19123
 
 [http://www.azavea.com](http://www.azavea.com)
 
-**Table of Contents**
 
-Overview
 
-Executive Summary
 
-Criteria for Selecting Standards
 
-Domain-Specific Standards
+# Overview {#overview}
 
-Akoma Ntoso
-
-Common Alerting Protocol (CAP)
-
-Election Markup Language (EML)
-
-General Transit Feed Specification (GTFS)
-
-GTFS-RT (Real-Time)
-
-Google Civic Information API
-
-House Facts
-
-Local Inspector Value Entry Specification (LIVES)
-
-Open311
-
-Open Civic Data
-
-Open Contracting Data Standard (OCDS)
-
-OpenElections
-
-OpenReferral
-
-OpenTrails
-
-Popolo
-
-Voting Information Project (VIP)
-
-Generic Standards – Data Catalogs
-
-CKAN API
-
-Data Catalog Vocabulary (DCAT)
-
-Data.json and Common Core Metadata
-
-OGC Catalogue Standard (CSW)
-
-Socrata Open Data API (SODA)
-
-Generic Standards – Geospatial Data
-
-KML
-
-GeoJSON
-
-Shapefile
-
-OGC GeoPackage
-
-OGC WMS/WFS/WCS/WMTS/ WPS
-
-Areas of Significant Opportunity
-
-Built Environment
-
-Building Energy Usage
-
-Zoning and Zoning Overlays
-
-Land Use
-
-Building Permits and Construction Inspection
-
-Other Safety Inspections
-
-Travel Monitoring and Volume
-
-Real-time Travel Conditions
-
-Traffic Accidents
-
-Parking
-
-Bicycle Infrastructure and Routes
-
-Justice and Public Safety
-
-Crime
-
-SpotCrime Open Crime Standard
-
-UCR Crime Reports
-
-National Information Exchange Model (NIEM)
-
-OGC Law Enforcement and Public Safety DWG
-
-Courts
-
-Environment and Ecosystems
-
-Environmental Sensors
-
-Trees
-
-Land Records
-
-Street Addresses
-
-Deed / Mortgage Registrations
-
-Land Administration Model (LADM)
-
-Real Estate Sales
-
-Real Estate Tax and Appraisals
-
-Following the Money
-
-Budget and Expenditures
-
-Lobbying
-
-Campaign Contributions
-
-Other Topics
-
-Service Area Boundaries
-
-Business Licenses and Registrations
-
-Public Notifications (Zoning, etc.)
-
-Council / Board Meeting Minutes
-
-Overview
-
-Executive Summary
-
+## Executive Summary
 This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards.
 
-Criteria for Selecting Standards
+## Criteria for Selecting Standards
+This report is organized into two sections, one for standards that have been released and are in use in at least a few cities, and a second section for potential new standards.
 
-This report is organized into two sections, one for standards that have been released and are in use in at least a few cities, and a second section for potential new standards. The criteria used to select the standards includes the following:
+The criteria used to select the standards includes the following:
 
-*   _Location-based_ - We will focus on standards that have a location component
+*   *Location-based* - We will focus on standards that have a location component
 
-*   _Published standard_ – There is documentation for the specification
+*   *Published standard* – There is documentation for the specification
 
-*   _Machine-readable_ - Based on JSON, CSV, XML or similar structure
+*   *Machine-readable* - Based on JSON, CSV, XML or similar structure
 
-*   _Adoption and used_ - Adopted by at least one major US cities or heavily used by an aggregator of municipal data
+*   *Adoption and used* - Adopted by at least one major US cities or heavily used by an aggregator of municipal data
 
 Domain-Specific Standards
 
