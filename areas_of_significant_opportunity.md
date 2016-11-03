@@ -530,15 +530,16 @@ The United States has a particularly complex set of local administrative and jur
 
 *   [http://www.fgdc.gov/standards/projects/FGDC-standards-projects/framework-data-standard/GI_FrameworkDataStandard_Part5_GovernmentalUnitBoundaries.pdf](http://www.fgdc.gov/standards/projects/FGDC-standards-projects/framework-data-standard/GI_FrameworkDataStandard_Part5_GovernmentalUnitBoundaries.pdf)
 
-Business Licenses and Registrations
 
-| **Current Status** | ![](export/assets/image62png.png)Informal Discussion |
+### Business Licenses and Registrations
+
+| **Current Status** | Informal Discussion |
 | --- | --- |
 | **Potential Implementing Agencies** | Local and State agencies responsible for issuing business licenses and registrations |
 | **Potential Founding/Sponsoring Organizations** | Code for America |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Local data on business registrations is fragmented and largely unavailable.Private companies, such as Dun and Bradstreet and InfoUSA collect this data from state and local governments, but it is frequently out-of-date.In many municipalities, registration of a new business is required, but the municipality does not require a similar process when a business ceases operation.
 
 The Census Bureau manages a federal standard, National American Industry Classification System (NAICS), for classifying businesses and employment data and would be in a good position to develop an open data standard for use by local and state levels.In addition, a new startup, OpenCorporates, has successfully assembled business registration listings for most countries in the world and now makes this data available through their web site and an API.
@@ -549,30 +550,32 @@ The Census Bureau manages a federal standard, National American Industry Classif
 
 *   OpenCorporates - [https://opencorporates.com/](https://opencorporates.com/)
 
-Public Notifications (Zoning, etc.)
 
-| **Current Status** | ![](export/assets/image56png.png)Informal standard, not adopted |
+### Public Notifications (Zoning, etc.)
+
+| **Current Status** |Informal standard, not adopted |
 | --- | --- |
 | **Potential Implementing Agencies** | State and Local Agencies/Departments |
 | **Potential Founding/Sponsoring Organizations** | San Francisco Mayor’s Office of Civic Innovation (SFMOCI) |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 The San Francisco Mayor’s Office of Civic Innovation project, Public Notifications Data Format (PNDF), seeks to establish standards and best practices for notifications from City departments. SFMOCI launched a pilot with several city departments in 2013, but there is little information available on the outcome or results of the pilot. There is the potential for some overlap between an open standard for public notifications -- for example, public notifications could be things like road closures and other events that might be covered by other standards. However, a PNDF could be useful for disseminating information like requests for zoning variances.Property owners or community associations are often required to notify neighbors within a certain radius.
 
 **Additional Resources**
 
 *   PNDF on GitHub: [https://github.com/SFMOCI/pndf](https://github.com/SFMOCI/pndf)
 
-Council / Board Meeting Minutes
 
-| **Current Status** | ![](export/assets/image54png.png)Open source software, but no standard in use |
+### Council / Board Meeting Minutes
+
+| **Current Status** | Open source software, but no standard in use |
 | --- | --- |
 | **Potential Implementing Agencies** | City and County Councils |
 | **Potential Founding/Sponsoring Organizations** | MySociety, Open Civic Data, Code for America Brigades |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 Several organizations are currently working to make local government proceedings more open and accessible. The New York City Council recently passed a resolution requiring legislative tracking information and discretionary funding data be made available to the public in a machine readable format through an API. The MySociety organization has released a software component, SayIt, that can be used to both transcribe and search meeting minutes. SayIt is now also a component being supported by the Poplus network. A second open source project, Councilmatic, began in Philadelphia and is now also in use in Chicago for searching meeting minutes. None of these efforts have resulted in an open data standard but they are, nonetheless, in a good position to do so.
 
 There is some overlap in this topic with the OCD Events standard (see above) and that may be another route to a standard.
@@ -587,15 +590,16 @@ There is some overlap in this topic with the OCD Events standard (see above) and
 
 *   OCD Events standard -[http://docs.opencivicdata.org/en/latest/proposals/0004.html](http://docs.opencivicdata.org/en/latest/proposals/0004.html)
 
-Flu Shot Spec
 
-| **Current Status** | ![](export/assets/image23png.png)Proposed, in use in Philadelphia, Chicago and San Francisco |
+### Flu Shot Spec
+
+| **Current Status** | Proposed, in use in Philadelphia, Chicago and San Francisco |
 | --- | --- |
 | **Potential Implementing Agencies** | Public Health Agencies |
 | **Potential Founding/Sponsoring Organizations** | City of Philadelphia, Code for America |
 
 **Analysis -- Future Potential and Adoption**
-
+<br>
 The proposed data specification for flu shot locations is led by the city of Philadelphia in an effort to make flu shot location data more discoverable to the general public. In addition, it will aid city agencies in dissemination of this information, and allow third-party websites and civic applications to integrate the data.
 
 *   Flu Shot Locations Data Spec: [http://cityofphiladelphia.github.io/flu-shot-spec/](http://cityofphiladelphia.github.io/flu-shot-spec/)
