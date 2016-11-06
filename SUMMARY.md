@@ -1,8 +1,7 @@
 # Summary
 
 * [Table of Contents](README.md)
-* [Contribute](contribute.md)
-* [Overview](overview.md)
+* [Introduction](overview.md)
 * Domain-specific Standards
    * [Akoma Ntoso](standards/akoma_ntoso.md)
    * [Common Alerting Protocol](standards/common_alerting_protocol.md)
@@ -65,4 +64,5 @@
        * Business Licenses and Registrations
        * Public Notifications
        * Service Area Boundaries
+* [Contribute](contribute.md)
 
