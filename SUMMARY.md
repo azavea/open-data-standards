@@ -23,7 +23,7 @@
 * General Standards: [Data Catalogs](data_catalogs.md)
    * [CKAN API](standards/ckan_api.md)
    * [Data Catalog Vocabulary (DCAT)](standards/data_catalog_vocabulary_dcat.md)
-   * Data.json and Common Core Metadata
+   * [Data.json and Common Core Metadata](standards/datajson_common_core_metadata.md)
    * OGC Catalogue Standard (CSW)
    * Socrata Open Data API (SODA)
 * General Standards: [Geospatial Data](geospatial_data.md)
