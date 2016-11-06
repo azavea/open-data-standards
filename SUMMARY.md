@@ -5,7 +5,7 @@
 * [Overview](overview.md)
 * Domain-specific Standards
    * [Akoma Ntoso](standards/akoma_ntoso.md)
-   * Common Alerting Protocol
+   * [Common Alerting Protocol](standards/common_alerting_protocol.md)
    * Election Markup Language
    * General Transit Feed Specification
    * GTFS-RT (Real-Time)
