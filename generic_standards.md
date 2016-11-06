@@ -1,6 +1,8 @@
 # Generic Standards
 
-Open Data Standards within this report are detailed in two categories:
+We have organized the Open Data Standards in this document into three categories:
+
+Domain-Specific Standards
 
 1. [Data Catalogs](../generic_standards/data_catalogs.md)
 
