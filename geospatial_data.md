@@ -1,2 +1,0 @@
-# General Standards: Geospatial Data
-
