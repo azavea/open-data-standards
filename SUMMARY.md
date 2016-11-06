@@ -22,7 +22,7 @@
    * Voting Information Project (VIP)
 * General Standards: [Data Catalogs](data_catalogs.md)
    * [CKAN API](standards/ckan_api.md)
-   * Data Catalog Vocabulary (DCAT)
+   * [Data Catalog Vocabulary (DCAT)](standards/data_catalog_vocabulary_dcat.md)
    * Data.json and Common Core Metadata
    * OGC Catalogue Standard (CSW)
    * Socrata Open Data API (SODA)
