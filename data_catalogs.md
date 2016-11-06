@@ -14,7 +14,7 @@
 
 **Background**
 <br>
-The CKAN data catalog has been developed over the course of several years by the Open Knowledge Foundation. It is the leading open source data catalog and supports many key features. The CKAN API supports all of the key features of CKAN, including retrieving lists of data sets, metadata about each data set, search results, add/update/delete data sets and an activity log.
+Open Knowledge Foundation developed the CKAN data catalog over the course of several years. It is the leading open source data catalog and supports many key features. The CKAN API supports all of the key features of CKAN, including retrieving lists of data sets, metadata about each data set, search results, add/update/delete data sets and an activity log.
 
 **Analysis**
 <br>
