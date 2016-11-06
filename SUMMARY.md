@@ -4,23 +4,24 @@
 * [Introduction](README.md)
 * [Contribute](contribute.md)
 
-### Domain-specific Standards
-* [Akoma Ntoso](standards/akoma_ntoso.md)
-* [Common Alerting Protocol](standards/common_alerting_protocol.md)
-* Election Markup Language (EML)
-* General Transit Feed Specification (GTFS)
-* GTFS Real-Time (GTFS-RT)
-* Google Civic Information API
-* House Facts
-* Local Inspector Value Entry Specification (LIVES)
-* Open311
-* Open Civic Data
-* Open Contracting Data Standard (OCDS)
-* OpenElections
-* OpenReferral
-* OpenTrails
-* Popolo
-* Voting Information Project (VIP)
+
+* Domain-specific Standards
+  * [Akoma Ntoso](standards/akoma_ntoso.md)
+  * [Common Alerting Protocol](standards/common_alerting_protocol.md)
+  * Election Markup Language (EML)
+  * General Transit Feed Specification (GTFS)
+  * GTFS Real-Time (GTFS-RT)
+  * Google Civic Information API
+  * House Facts
+  * Local Inspector Value Entry Specification (LIVES)
+  * Open311
+  * Open Civic Data
+  * Open Contracting Data Standard (OCDS)
+  * OpenElections
+  * OpenReferral
+  * OpenTrails
+  * Popolo
+  * Voting Information Project (VIP)
 
 
 * General Standards: Data Catalogs
