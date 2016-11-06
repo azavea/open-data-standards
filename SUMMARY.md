@@ -25,7 +25,7 @@
    * [Data Catalog Vocabulary (DCAT)](standards/data_catalog_vocabulary_dcat.md)
    * [Data.json and Common Core Metadata](standards/datajson_common_core_metadata.md)
    * [OGC Catalogue Standard (CSW)](standards/ogc_catalogue_standard_csw.md)
-   * Socrata Open Data API (SODA)
+   * [Socrata Open Data API (SODA)](standards/socrata_open_data_api_soda.md)
 * General Standards: [Geospatial Data](geospatial_data.md)
    * GeoJSON
    * Keyhole Markup Language (KML)
