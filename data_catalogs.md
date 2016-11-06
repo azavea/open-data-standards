@@ -3,8 +3,9 @@
 
 ## CKAN API
 
-| **Current Status** | In use by many organizations, well maintained, good documentation |
+| Item | Description |
 | --- | --- |
+| **Current Status** | In use by many organizations, well maintained, good documentation |
 | **Version Number** | v. 3 (CKAN version 2.2) |
 | **Key Contacts** | CKAN mailing list ([https://groups.google.com/forum/#!forum/ckan-global-user-group](https://groups.google.com/forum/#!forum/ckan-global-user-group)) |
 | **Implementing Agencies** | Many agencies, global |
@@ -22,8 +23,9 @@ The open source CKAN application is well established with many users, including 
 
 ## Data Catalog Vocabulary (DCAT)
 
-| **Current Status** | Published by W3C as recommendation, but not yet an adopted standard |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Published by W3C as recommendation, but not yet an adopted standard |
 | **Version Number** | W3C recommendation (Jan. 2014) |
 | **Key Contacts** | Mailing list (subscribe at [http://www.w3.org/TR/vocab-dcat/](http://www.w3.org/TR/vocab-dcat/)) |
 | **Implementing Agencies** | Unknown |
@@ -41,8 +43,9 @@ The DCAT standard is the basis for the Data.json effort, below.
 
 ## Project Open Data Metadata Schema
 
-| **Current Status** | Rapidly developed but already in broad use |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Rapidly developed but already in broad use |
 | **Version Number** | 1.1 |
 | **Key Contacts** |  |
 | **Implementing Agencies** | Data.gov, several cities |
@@ -56,8 +59,9 @@ Also known as “Slash Data”, this standard was developed by the Project Open 
 
 ## OGC Catalogue Standard (CSW)
 
-| **Current Status** | Broadly implemented in commercial and open source software tools |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Broadly implemented in commercial and open source software tools |
 | **Version Number** | 3.0 |
 | **Key Contacts** | OGC |
 | **Implementing Agencies** |  |
@@ -71,8 +75,9 @@ The OGC developed the Catalogue Service specifically to support open geospatial 
 
 ## Socrata Open Data API (SODA)
 
-| **Current Status** | Commercial company but broadly used |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Commercial company but broadly used |
 | **Version Number** | 1.0? (documentation does not list a version number) |
 | **Key Contacts** | Unknown |
 | **Implementing Agencies** | New York, Chicago, Baltimore and several other large U.S. cities |
