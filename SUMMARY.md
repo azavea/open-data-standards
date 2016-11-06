@@ -2,7 +2,7 @@
 
 * [Table of Contents](SUMMARY.md)
 * [Introduction](README.md)
-* [Contribute](contribute.md
+* [Contribute](contribute.md)
 
 ## Domain-specific Standards
 * [Akoma Ntoso](standards/akoma_ntoso.md)
