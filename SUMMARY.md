@@ -29,7 +29,7 @@
 * General Standards: [Geospatial Data](geospatial_data.md)
    * [GeoJSON](standards/geojson.md)
    * [Keyhole Markup Language (KML)](standards/keyhole_markup_language_kml.md)
-   * OGC GeoPackage
+   * [OGC GeoPackage](standards/ogc_geopackage.md)
    * OGC WMS/WFS/WCS/WMTS/WPS
 * Potential Future Standards
    * Built Environment
