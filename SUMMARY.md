@@ -28,7 +28,7 @@
    * [Socrata Open Data API (SODA)](standards/socrata_open_data_api_soda.md)
 * General Standards: [Geospatial Data](geospatial_data.md)
    * [GeoJSON](standards/geojson.md)
-   * Keyhole Markup Language (KML)
+   * [Keyhole Markup Language (KML)](standards/keyhole_markup_language_kml.md)
    * OGC GeoPackage
    * OGC WMS/WFS/WCS/WMTS/WPS
 * Potential Future Standards
