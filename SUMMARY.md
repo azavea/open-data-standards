@@ -27,7 +27,7 @@
    * [OGC Catalogue Standard (CSW)](standards/ogc_catalogue_standard_csw.md)
    * [Socrata Open Data API (SODA)](standards/socrata_open_data_api_soda.md)
 * General Standards: [Geospatial Data](geospatial_data.md)
-   * GeoJSON
+   * [GeoJSON](standards/geojson.md)
    * Keyhole Markup Language (KML)
    * OGC GeoPackage
    * OGC WMS/WFS/WCS/WMTS/WPS
