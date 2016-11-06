@@ -1,7 +1,7 @@
-# Summary
+# Table of Contents
 
-* [Table of Contents](README.md)
-* [Introduction](overview.md)
+* [Table of Contents](SUMMARY.md)
+* [Introduction](README.md)
 * Domain-specific Standards
    * [Akoma Ntoso](standards/akoma_ntoso.md)
    * [Common Alerting Protocol](standards/common_alerting_protocol.md)
