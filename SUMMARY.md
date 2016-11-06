@@ -2,7 +2,6 @@
 
 * [Table of Contents](SUMMARY.md)
 * [Introduction](README.md)
-  * [Executive Summary](README.md#executive_summary)
 * [Contribute](contribute.md)
 
 
