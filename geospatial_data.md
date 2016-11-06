@@ -2,8 +2,9 @@
 
 ## KML
 
-| **Current Status** | Open Standard by Open Geospatial Consortium; broad use |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Open Standard by Open Geospatial Consortium; broad use |
 | **Version Number** | 2.3 |
 | **Key Contacts** | KML 2.3 Standards Working Group [http://www.opengeospatial.org/projects/groups/kmlswg](http://www.opengeospatial.org/projects/groups/kmlswg) |
 | **Implementing Agencies** | Various – KML support is included in Google products as well as several open source and commercial products. Open source libraries have also been released to support desktop software integration. |
@@ -25,8 +26,9 @@ KML is widely used for use of sharing 2D and 3D geospatial data in xml format on
 
 ## GeoJSON
 
-| **Current Status** | Wide Adoption in web apps and APIs |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Wide Adoption in web apps and APIs |
 | **Version Number** | 1.0 |
 | **Key Contacts** | [http://lists.geojson.org/listinfo.cgi/geojson-geojson.org](http://lists.geojson.org/listinfo.cgi/geojson-geojson.org) |
 | **Implementing Agencies** | Organizations building Web Mapping Applications |
@@ -63,8 +65,9 @@ GeoJSON can also store non-spatial attributes using JavaScript Object Notation. 
 
 ## Shapefile
 
-| **Current Status** | Wide Adoption |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Wide Adoption |
 | **Version Number** | No version numbers – last update was July 1998 |
 | **Key Contacts** | Esri |
 | **Implementing Agencies** | Companies, Education Organizations, Government Agencies that create, store and manipulate geospatial data |
@@ -112,8 +115,9 @@ For web mapping, many online tools have adapted to the structure of the shapefil
 
 ## OGC GeoPackage
 
-| **Current Status** | Adopted in early 2014 and beginning to be integrated into software tools; not yet widely used but significant demand for mobile applications |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Adopted in early 2014 and beginning to be integrated into software tools; not yet widely used but significant demand for mobile applications |
 | **Version Number** | 1.0 |
 | **Key Contacts** | info@opengeospatial.org |
 | **Implementing Agencies** | Organizations using Open GeoSpatial Data Formats |
@@ -149,8 +153,9 @@ Unlike shapefiles, this spatial data format supports both vector and raster data
 
 ## OGC WMS/WFS/WCS/WMTS/WPS
 
-| **Current Status** | Wide Adoption |
+| Item | Description |
 | --- | --- |
+| **Current Status** | Wide Adoption |
 | **Version Number** | Varies |
 | **Key Contacts** | info@opengeospatial.org |
 | **Implementing Agencies** | Organizations using Open GeoSpatial Data Formats |
