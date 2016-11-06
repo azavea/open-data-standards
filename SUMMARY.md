@@ -5,5 +5,5 @@
 * [Overview](overview.md)
 * [Generic Standards](generic_standards.md)
    * [Data Catalogs](data_catalogs.md)
-   * Geospatial Data
+   * [Geospatial Data](geospatial_data.md)
 
