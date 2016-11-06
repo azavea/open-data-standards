@@ -1,5 +1,0 @@
-# Generic Standards: Data Catalogs
-
-
-
-
