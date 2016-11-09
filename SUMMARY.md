@@ -33,7 +33,7 @@
    * [OGC WMS/WFS/WCS/WMTS/WPS](standards/ogc_wms-wfs-wcs-wmts-wps.md)
    * [Shapefile](standards/shapefile.md)
 * [Potential Future Standards](future_standards/potential_future_standards.md)
-   * Built Environment
+   * [Built Environment](future_standards/built_environment/built_environment.md)
        * [Building Energy Usage](future_standards/built_environment/building_energy_usage.md)
        * [Building Permits](future_standards/built_environment/building_permits.md)
        * [Bicycle Infrastructure and Routes](future_standards/built_environment/bicycle_infrastructure_and_routes.md)
