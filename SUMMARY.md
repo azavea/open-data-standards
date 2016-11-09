@@ -13,7 +13,7 @@
    * [House Facts](standards/house_facts.md)
    * [Local Inspector Value Entry Specification (LIVES)](standards/local_inspector_value_entry_specification_lives.md)
    * [Open311](standards/open311.md)
-   * Open Civic Data
+   * [Open Civic Data](standards/open_civic_data.md)
    * Open Contracting Data Standard (OCDS)
    * OpenElections
    * OpenReferral
