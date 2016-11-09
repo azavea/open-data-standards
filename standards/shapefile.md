@@ -8,9 +8,9 @@
 | **Implementing Agencies** | Companies, Education Organizations, Government Agencies that create, store and manipulate geospatial data |
 | **Documentation** | [http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) |
 | **Founding/Sponsoring Organizations** | Esri |
-
-**Background**
 <br>
+**Background**
+
 The shapefile was originally developed by the Geographic Information Systems software company, Esri, for the storage of geospatial data. Though not technically an open, community standard, Esri published the specification in the 1990’s and it is has become an extremely common data format for the storage and distribution of spatial data.
 
 A shapefile is a file format used to store the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas).
@@ -24,7 +24,7 @@ The shapefile is in fact a grouping of several files formatted to represent diff
 * .lyr — layer format; an option file; contains display specifications for ArcGIS software including color, labeling, etc.
 
 **Analysis**
-<br>
+
 Because shapefiles are stored as multiple files, they are not the simplest way to store and transfer data; however they do a successful job in storing additional data about geospatial dataset such as attributes, projection, zymology and metadata.Newer data formats such as GeoJSON and KML allow for the easier transfer and quick visualization of data, especially on the web, but key attributes are not as successfully stored. For simple point features, tabular CSV (comma separated values) is popular for the distribution of data with coordinates, though no metadata or embedded projection is possible. There are limitations of size (1 gb of data) and field length which is limiting when storing complex or large datasets.
 
 For web mapping, many online tools have adapted to the structure of the shapefile and enabled the ability to upload a zipped shapefile for web visualization.
