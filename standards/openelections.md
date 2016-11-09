@@ -1,7 +1,7 @@
 # OpenElections
 | Item | Description |
 | --- | --- |
-| **Current Status** | ![](export/assets/image41png.png)In Progress |
+| **Current Status** | In Progress |
 | **Version Number** | v1 |
 | **Key Contacts** | Serdar Tumgoren, Project Lead [https://twitter.com/zstumgoren](https://twitter.com/zstumgoren) |
 | **Implementing Agencies** | State and local election commissions, Journalists, civic hackers |
