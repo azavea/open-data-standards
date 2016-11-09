@@ -16,24 +16,22 @@ The Open Civic Data project is a collaborative effort to define schemas and prov
 
 The Open Civic Data project seeks to define a schema for the following:
 
-_Division_ - A political geography such as a state, county or congressional district.
+* _Division_ - A political geography such as a state, county or congressional district.
+  * [http://docs.opencivicdata.org/en/latest/proposals/0002.html](http://docs.opencivicdata.org/en/latest/proposals/0002.html)
+* _Jurisdictions_ - A governing body that exists within a division, such as the PA House of Representatives.
+  * [http://docs.opencivicdata.org/en/latest/proposals/0003.html](http://docs.opencivicdata.org/en/latest/proposals/0003.html)
+* _Civic Events_ - A legislative event, such as a meeting or hearing.
+  * [http://docs.opencivicdata.org/en/latest/proposals/0004.html](http://docs.opencivicdata.org/en/latest/proposals/0004.html)
+* _Persons, Organizations, Posts and Memberships_ - A politician or government official, a group of people (such as a city council, state senate or committee). The Popolo specification (see above) is the basis for this OCD component.
+  * [http://docs.opencivicdata.org/en/latest/proposals/0005.html](http://docs.opencivicdata.org/en/latest/proposals/0005.html)
+* _Bills_ - A legislative document and its history, may technically be a resolution, appointment, or contract.
+  * [http://docs.opencivicdata.org/en/latest/proposals/0006.html](http://docs.opencivicdata.org/en/latest/proposals/0006.html)
+* _Votes_ - The record of a vote taken on a motion, such as a confirmation or passage of a bill.
+  * [http://docs.opencivicdata.org/en/latest/proposals/0007.html](http://docs.opencivicdata.org/en/latest/proposals/0007.html)
 
-[http://docs.opencivicdata.org/en/latest/proposals/0002.html](http://docs.opencivicdata.org/en/latest/proposals/0002.html)
+**Additional Resources**
 
-_Jurisdictions_ - A governing body that exists within a division, such as the PA House of Representatives.
-
-[http://docs.opencivicdata.org/en/latest/proposals/0003.html](http://docs.opencivicdata.org/en/latest/proposals/0003.html)
-
-_Civic Events_ - A legislative event, such as a meeting or hearing.
-
-[http://docs.opencivicdata.org/en/latest/proposals/0004.html](http://docs.opencivicdata.org/en/latest/proposals/0004.html)
-
-_Persons, Organizations, Posts and Memberships_ - A politician or government official, a group of people (such as a city council, state senate or committee). The Popolo specification (see above) is the basis for this OCD component. [http://docs.opencivicdata.org/en/latest/proposals/0005.html](http://docs.opencivicdata.org/en/latest/proposals/0005.html)
-
-_Bills_ - A legislative document and its history, may technically be a resolution, appointment, or contract.
-
-[http://docs.opencivicdata.org/en/latest/proposals/0006.html](http://docs.opencivicdata.org/en/latest/proposals/0006.html)
-
-_Votes_ - The record of a vote taken on a motion, such as a confirmation or passage of a bill.
-
-[http://docs.opencivicdata.org/en/latest/proposals/0007.html](http://docs.opencivicdata.org/en/latest/proposals/0007.html)
+*   GitHub Repository: [https://github.com/opencivicdata](https://github.com/opencivicdata)
+*   Pupa – software project for scraping OCD data: [https://github.com/opencivicdata/pupa](https://github.com/opencivicdata/pupa)
+*   OCD ID Lookup Tool for Canada: [http://opennorth.github.io/ocd-id-viewer/](http://opennorth.github.io/ocd-id-viewer/)
+*   Master List of OCD IDs: [https://github.com/opencivicdata/ocd-division-ids/tree/master/identifiers](https://github.com/opencivicdata/ocd-division-ids/tree/master/identifiers)
