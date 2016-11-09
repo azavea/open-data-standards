@@ -59,7 +59,7 @@
        * [Real Estate Tax and Appraisals](future_standards/land_records/real_estate_tax_and_appraisals.md)
    * [Justice and Public Safety](future_standards/justice_and_public_safety/justice_and_public_safety.md)
        * [Crime Incidents](future_standards/justice_and_public_safety/crime_incidents.md)
-       * Courts
+       * [Courts](future_standards/justice_and_public_safety/courts.md)
    * Other Topics
        * Council and Board Meeting Minutes
        * Business Licenses and Registrations
