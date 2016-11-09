@@ -8,9 +8,9 @@
 | **Implementing Agencies** | Organizations using Open GeoSpatial Data Formats |
 | **Documentation** | See Below |
 | **Founding/Sponsoring Organizations** | Open Geospatial Consortium |
-
-**Background**
 <br>
+**Background**
+
 _Web Map Service (WMS) 1.3_
 <br>
 The geographic layers and area of interest to be processed are defined by the WMS request. One or more geo-referenced images are returned and can be displayed in a browser application.
@@ -37,6 +37,6 @@ Rules for stadardization of inputs and outputs for geospatial processing service
 [http://www.opengeospatial.org/standards/wps](http://www.opengeospatial.org/standards/wps)
 
 **Analysis**
-<br>
+
 The OGC publishes a broad range of standards, most of which are not widely adopted. However, this core set of web map publishing standards is in broad use in both open source and commercial software tools and continues to provide value and have active communities of people using and improving upon them.
 
