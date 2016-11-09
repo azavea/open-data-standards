@@ -1,7 +1,7 @@
 # Safety Inspections
 | Item | Description |
 | --- | --- |
-| **Current Status** | ![](export/assets/image60png.png)No standards for local inspection data |
+| **Current Status** | No standards for local inspection data |
 | **Potential Implementing Agencies** | Local and State agencies responsible for inspection safety of buildings, infrastructure, and workplaces |
 | **Potential Founding/Sponsoring Organizations** | United States Department of Labor |
 <br>
