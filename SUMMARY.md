@@ -60,7 +60,7 @@
    * [Justice and Public Safety](future_standards/justice_and_public_safety/justice_and_public_safety.md)
        * [Crime Incidents](future_standards/justice_and_public_safety/crime_incidents.md)
        * [Courts](future_standards/justice_and_public_safety/courts.md)
-   * Other Topics
+   * [Other Topics](future_standards/other_topics/other_topics.md)
        * Council and Board Meeting Minutes
        * Business Licenses and Registrations
        * Public Notifications
