@@ -38,7 +38,7 @@
        * [Building Permits](future_standards/built_environment/building_permits.md)
        * [Bicycle Infrastructure and Routes](future_standards/built_environment/bicycle_infrastructure_and_routes.md)
        * [Construction Inspection](future_standards/built_environment/construction_inspection.md)
-       * Land Use
+       * [Land Use](future_standards/built_environment/land_use.md)
        * Parking
        * Safety Inspections
        * Traffic Monitoring and Volume
