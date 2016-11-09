@@ -47,7 +47,7 @@
        * [Zoning and Zoning Overlays](future_standards/built_environment/zoning_and_zoning_overlays.md)
    * [Environment and Ecosystems](future_standards/environment_and_ecosystems/environment_and_ecosystems.md)
        * [Environmental Sensors](future_standards/environment_and_ecosystems/environmental_sensors.md)
-       * Trees
+       * [Trees](future_standards/environment_and_ecosystems/trees.md)
    * Finance
        * Budget and Expenditures
        * Campaign Contributions
