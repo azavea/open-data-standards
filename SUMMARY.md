@@ -50,7 +50,7 @@
        * [Trees](future_standards/environment_and_ecosystems/trees.md)
    * [Finance](future_standards/finance/finance.md)
        * [Budget and Expenditures](future_standards/finance/budget_and_expenditures.md)
-       * Campaign Contributions
+       * [Campaign Contributions](future_standards/finance/campaign_contributions.md)
        * Lobbying
    * Land Records
        * Addresses
