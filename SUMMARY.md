@@ -61,7 +61,7 @@
        * [Crime Incidents](future_standards/justice_and_public_safety/crime_incidents.md)
        * [Courts](future_standards/justice_and_public_safety/courts.md)
    * [Other Topics](future_standards/other_topics/other_topics.md)
-       * Council and Board Meeting Minutes
+       * [Council and Board Meeting Minutes](future_standards/other_topics/council_and_board_meeting_minutes.md)
        * Business Licenses and Registrations
        * Public Notifications
        * Service Area Boundaries
