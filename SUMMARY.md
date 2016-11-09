@@ -9,7 +9,7 @@
    * [Election Markup Language (EML)](standards/election_markup_language_eml.md)
    * [General Transit Feed Specification (GTFS)](standards/general_transit_feed_specification_gtfs.md)
    * [GTFS Real-Time (GTFS-RT)](standards/gtfs_realtime_gtfsrt.md)
-   * Google Civic Information API
+   * [Google Civic Information API](standards/google_civic_information_api.md)
    * House Facts
    * Local Inspector Value Entry Specification (LIVES)
    * Open311
