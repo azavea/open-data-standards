@@ -59,7 +59,7 @@
        * [Deed and Mortgage Registrations](future_standards/land_records/deed_and_mortgage_registrations.md)
        * [Real Estate Sales](future_standards/land_records/real_estate_sales.md)
        * [Real Estate Tax and Appraisals](future_standards/land_records/real_estate_tax_and_appraisals.md)
-       * Land Administration Model (LADM)
+       * [Land Administration Model (LADM)](future_standards/land_records/land_administration_model_ladm.md)
    * [Justice and Public Safety](future_standards/justice_and_public_safety/justice_and_public_safety.md)
        * [Crime Incidents](future_standards/justice_and_public_safety/crime_incidents.md)
        * [Courts](future_standards/justice_and_public_safety/courts.md)
