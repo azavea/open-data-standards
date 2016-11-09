@@ -3,7 +3,7 @@
 * [Table of Contents](SUMMARY.md)
 * [Introduction](README.md)
 * [Contribute](contribute.md)
-* Domain-specific Standards
+* [Domain-specific Standards](standards/domain-specific_standards.md)
    * [Akoma Ntoso](standards/akoma_ntoso.md)
    * [Common Alerting Protocol](standards/common_alerting_protocol.md)
    * [Election Markup Language (EML)](standards/election_markup_language_eml.md)
