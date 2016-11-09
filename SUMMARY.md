@@ -57,7 +57,7 @@
        * [Deed and Mortgage Registrations](future_standards/land_records/deed_and_mortgage_registrations.md)
        * [Real Estate Sales](future_standards/land_records/real_estate_sales.md)
        * [Real Estate Tax and Appraisals](future_standards/land_records/real_estate_tax_and_appraisals.md)
-   * Justice and Public Safety
+   * [Justice and Public Safety](future_standards/justice_and_public_safety/justice_and_public_safety.md)
        * Crime Incidents
        * Courts
    * Other Topics
