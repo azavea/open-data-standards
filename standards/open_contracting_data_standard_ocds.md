@@ -1,7 +1,7 @@
 # Open Contracting Data Standard (OCDS)
 | Item | Description |
 | --- | --- |
-| **Current Status** | ![](export/assets/image40png.png) Adopted internationally; well-funding; rapidly maturing |
+| **Current Status** | Adopted internationally; well-funding; rapidly maturing |
 | **Version Number** | 1.0 |
 | **Key Contacts** | Twitter: [@ocdata](https://twitter.com/ocdata) |
 | **Implementing Agencies** | San Mateo County, UK.gov |
