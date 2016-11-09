@@ -62,7 +62,7 @@
        * [Courts](future_standards/justice_and_public_safety/courts.md)
    * [Other Topics](future_standards/other_topics/other_topics.md)
        * [Council and Board Meeting Minutes](future_standards/other_topics/council_and_board_meeting_minutes.md)
-       * Business Licenses and Registrations
+       * [Business Licenses and Registrations](future_standards/other_topics/business_licenses_and_registrations.md)
        * Public Notifications
        * Service Area Boundaries
 
