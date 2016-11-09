@@ -53,7 +53,7 @@
        * [Campaign Contributions](future_standards/finance/campaign_contributions.md)
        * [Lobbying](future_standards/finance/lobbying.md)
    * [Land Records](future_standards/land_records/land_records.md)
-       * Addresses
+       * [Addresses](future_standards/land_records/addresses.md)
        * Deed and Mortgage Registrations
        * Real Estate Sales
        * Real Estate Tax and Appraisals
