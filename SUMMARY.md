@@ -35,7 +35,7 @@
 * [Potential Future Standards](future_standards/potential_future_standards.md)
    * Built Environment
        * [Building Energy Usage](future_standards/built_environment/building_energy_usage.md)
-       * Building Permits
+       * [Building Permits](future_standards/built_environment/building_permits.md)
        * Bicycle Infrastructure and Routes
        * Construction Inspection
        * Land Use
