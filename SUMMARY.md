@@ -32,7 +32,7 @@
    * [OGC GeoPackage](standards/ogc_geopackage.md)
    * [OGC WMS/WFS/WCS/WMTS/WPS](standards/ogc_wms-wfs-wcs-wmts-wps.md)
    * [Shapefile](standards/shapefile.md)
-* Potential Future Standards
+* [Potential Future Standards](future_standards/potential_future_standards.md)
    * Built Environment
        * Building Energy Usage
        * Building Permits
