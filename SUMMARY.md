@@ -54,7 +54,7 @@
        * [Lobbying](future_standards/finance/lobbying.md)
    * [Land Records](future_standards/land_records/land_records.md)
        * [Addresses](future_standards/land_records/addresses.md)
-       * Deed and Mortgage Registrations
+       * [Deed and Mortgage Registrations](future_standards/land_records/deed_and_mortgage_registrations.md)
        * Real Estate Sales
        * Real Estate Tax and Appraisals
    * Justice and Public Safety
