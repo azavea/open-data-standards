@@ -15,7 +15,7 @@
    * [Open311](standards/open311.md)
    * [Open Civic Data](standards/open_civic_data.md)
    * [Open Contracting Data Standard (OCDS)](standards/open_contracting_data_standard_ocds.md)
-   * OpenElections
+   * [OpenElections](standards/openelections.md)
    * OpenReferral
    * OpenTrails
    * Popolo
