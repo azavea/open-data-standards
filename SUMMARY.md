@@ -18,7 +18,7 @@
    * [OpenElections](standards/openelections.md)
    * [OpenReferral](standards/openreferral.md)
    * [OpenTrails](standards/opentrails.md)
-   * Popolo
+   * [Popolo](standards/popolo.md)
    * Voting Information Project (VIP)
 * General Standards: Data Catalogs
    * [CKAN API](standards/ckan_api.md)
