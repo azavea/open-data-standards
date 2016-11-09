@@ -51,7 +51,7 @@
    * [Finance](future_standards/finance/finance.md)
        * [Budget and Expenditures](future_standards/finance/budget_and_expenditures.md)
        * [Campaign Contributions](future_standards/finance/campaign_contributions.md)
-       * Lobbying
+       * [Lobbying](future_standards/finance/lobbying.md)
    * Land Records
        * Addresses
        * Deed and Mortgage Registrations
