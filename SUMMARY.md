@@ -45,6 +45,7 @@
        * [Traffic Conditions - Real-time](future_standards/built_environment/traffic_conditions_-_real-time.md)
        * [Traffic Accidents](future_standards/built_environment/traffic_accidents.md)
        * [Zoning and Zoning Overlays](future_standards/built_environment/zoning_and_zoning_overlays.md)
+   * Public Health
    * [Environment and Ecosystems](future_standards/environment_and_ecosystems/environment_and_ecosystems.md)
        * [Environmental Sensors](future_standards/environment_and_ecosystems/environmental_sensors.md)
        * [Trees](future_standards/environment_and_ecosystems/trees.md)
@@ -65,5 +66,4 @@
        * [Business Licenses and Registrations](future_standards/other_topics/business_licenses_and_registrations.md)
        * [Public Notifications](future_standards/other_topics/public_notifications.md)
        * [Service Area Boundaries](future_standards/other_topics/service_area_boundaries.md)
-   * Public Health
 
