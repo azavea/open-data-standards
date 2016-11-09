@@ -34,7 +34,7 @@
    * [Shapefile](standards/shapefile.md)
 * [Potential Future Standards](future_standards/potential_future_standards.md)
    * Built Environment
-       * Building Energy Usage
+       * [Building Energy Usage](future_standards/built_environment/building_energy_usage.md)
        * Building Permits
        * Bicycle Infrastructure and Routes
        * Construction Inspection
