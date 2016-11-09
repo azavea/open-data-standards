@@ -11,7 +11,7 @@
    * [GTFS Real-Time (GTFS-RT)](standards/gtfs_realtime_gtfsrt.md)
    * [Google Civic Information API](standards/google_civic_information_api.md)
    * [House Facts](standards/house_facts.md)
-   * Local Inspector Value Entry Specification (LIVES)
+   * [Local Inspector Value Entry Specification (LIVES)](standards/local_inspector_value_entry_specification_lives.md)
    * Open311
    * Open Civic Data
    * Open Contracting Data Standard (OCDS)
