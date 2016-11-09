@@ -1,5 +1,6 @@
 # Parking
-
+| Item | Description |
+| --- | --- |
 | **Current Status** | Formal Discussion |
 | **Potential Implementing Agencies** | City governments -- streets and highway commissions, parking enforcement agencies |
 | **Potential Founding/Sponsoring Organizations** | Streetline |
