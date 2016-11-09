@@ -40,7 +40,7 @@
        * [Construction Inspection](future_standards/built_environment/construction_inspection.md)
        * [Land Use](future_standards/built_environment/land_use.md)
        * [Parking](future_standards/built_environment/parking.md)
-       * Safety Inspections
+       * [Safety Inspections](future_standards/built_environment/safety_inspections.md)
        * Traffic Monitoring and Volume
        * Traffic Conditions - Real-time
        * Traffic Accidents
