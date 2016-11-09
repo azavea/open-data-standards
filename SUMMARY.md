@@ -7,7 +7,7 @@
    * [Akoma Ntoso](standards/akoma_ntoso.md)
    * [Common Alerting Protocol](standards/common_alerting_protocol.md)
    * [Election Markup Language (EML)](election_markup_language_eml.md)
-   * [General Transit Feed Specification (GTFS)](general_transit_feed_specification_gtfs.md)
+   * [General Transit Feed Specification (GTFS)](standards/general_transit_feed_specification_gtfs.md)
    * [GTFS Real-Time (GTFS-RT)](standards/gtfs_realtime_gtfsrt.md)
    * Google Civic Information API
    * House Facts
