@@ -39,7 +39,7 @@
        * [Bicycle Infrastructure and Routes](future_standards/built_environment/bicycle_infrastructure_and_routes.md)
        * [Construction Inspection](future_standards/built_environment/construction_inspection.md)
        * [Land Use](future_standards/built_environment/land_use.md)
-       * Parking
+       * [Parking](future_standards/built_environment/parking.md)
        * Safety Inspections
        * Traffic Monitoring and Volume
        * Traffic Conditions - Real-time
