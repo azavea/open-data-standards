@@ -17,7 +17,7 @@
    * [Open Contracting Data Standard (OCDS)](standards/open_contracting_data_standard_ocds.md)
    * [OpenElections](standards/openelections.md)
    * [OpenReferral](standards/openreferral.md)
-   * OpenTrails
+   * [OpenTrails](standards/opentrails.md)
    * Popolo
    * Voting Information Project (VIP)
 * General Standards: Data Catalogs
