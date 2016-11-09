@@ -46,7 +46,7 @@
        * [Traffic Accidents](future_standards/built_environment/traffic_accidents.md)
        * [Zoning and Zoning Overlays](future_standards/built_environment/zoning_and_zoning_overlays.md)
    * [Public Health](future_standards/public_health/public_health.md)
-       * [Flu Shot](future_standards/public_health/flu_shot.md)
+       * [Flu Shots](future_standards/public_health/flu_shot.md)
    * [Environment and Ecosystems](future_standards/environment_and_ecosystems/environment_and_ecosystems.md)
        * [Environmental Sensors](future_standards/environment_and_ecosystems/environmental_sensors.md)
        * [Trees](future_standards/environment_and_ecosystems/trees.md)
