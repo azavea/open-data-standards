@@ -48,7 +48,7 @@
    * [Environment and Ecosystems](future_standards/environment_and_ecosystems/environment_and_ecosystems.md)
        * [Environmental Sensors](future_standards/environment_and_ecosystems/environmental_sensors.md)
        * [Trees](future_standards/environment_and_ecosystems/trees.md)
-   * Finance
+   * [Finance](future_standards/finance/finance.md)
        * Budget and Expenditures
        * Campaign Contributions
        * Lobbying
