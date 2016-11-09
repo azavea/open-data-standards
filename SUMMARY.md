@@ -55,7 +55,7 @@
    * [Land Records](future_standards/land_records/land_records.md)
        * [Addresses](future_standards/land_records/addresses.md)
        * [Deed and Mortgage Registrations](future_standards/land_records/deed_and_mortgage_registrations.md)
-       * Real Estate Sales
+       * [Real Estate Sales](future_standards/land_records/real_estate_sales.md)
        * Real Estate Tax and Appraisals
    * Justice and Public Safety
        * Crime Incidents
