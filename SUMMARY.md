@@ -19,7 +19,7 @@
    * [OpenReferral](standards/openreferral.md)
    * [OpenTrails](standards/opentrails.md)
    * [Popolo](standards/popolo.md)
-   * Voting Information Project (VIP)
+   * [Voting Information Project (VIP)](standards/voting_information_project_vip.md)
 * General Standards: Data Catalogs
    * [CKAN API](standards/ckan_api.md)
    * [Data Catalog Vocabulary (DCAT)](standards/data_catalog_vocabulary_dcat.md)
