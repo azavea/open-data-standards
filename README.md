@@ -2,8 +2,6 @@
 
 Add an Image
 
-
-
 Prepared by:
 
 ![](images/azavea_trans_sm.png)
