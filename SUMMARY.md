@@ -1,6 +1,4 @@
 # Summary
-
-* [Table of Contents](SUMMARY.md)
 * [Introduction](README.md)
 * [Contribute](contribute.md)
 * [Domain-specific Standards](standards/domain-specific_standards.md)
