@@ -1,7 +1,7 @@
 # Open Data Standards {#open-data-standards}
 
 Add an Image
-
+TEXT FROM GITHUB
 Prepared by:
 
 ![](images/azavea_trans_sm.png)
