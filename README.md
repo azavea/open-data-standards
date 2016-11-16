@@ -1,8 +1,6 @@
 # Open Data Standards {#open-data-standards}
 
 Add an Image
-TEXT FROM GITHUB
-TEXT FROM GITBOOK
 
 Prepared by:
 
