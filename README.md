@@ -2,6 +2,8 @@
 
 Add an Image
 TEXT FROM GITHUB
+TEXT FROM GITBOOK
+
 Prepared by:
 
 ![](images/azavea_trans_sm.png)
