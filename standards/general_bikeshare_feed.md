@@ -2,22 +2,21 @@
 
 | Item | Description |
 | --- | --- |
-| **Current Status** | Published but very limited adoption |
+| **Current Status** | Published |
 | **Version Number** | v7.0 |
-| **Key Contacts** | John Borras, Individual johnaborras@yahoo.co.uk |
-| **Implementing Agencies** | Election commissions, e-voting companies |
-| **Documentation** | [http://docs.oasis-open.org/election/eml/v7.0/eml-v7.0.html](http://docs.oasis-open.org/election/eml/v7.0/eml-v7.0.html) |
-| **Founding/Sponsoring Organizations** | [OASIS](https://www.oasis-open.org/) |
+| **Key Contacts** |  |
+| **Implementing Agencies** | Municipal agencies, bikeshare technology companies |
+| **Documentation** | [https://github.com/NABSA/gbfs](https://github.com/NABSA/gbfs) |
+| **Founding/Sponsoring Organizations** | [NABSA](http://nabsa.net/) |
 <br>
 **Background**
 
-The Organization for the Advancement of Structured Information Standards (OASIS) created the Voter Services Technical Committee in 2001 to develop XML standards for election and voter services information. To establish the specifics of the XML schemas, the committee also developed a generic election process model based on the work by election.com’s CTO.
+The General Bikeshare Feed specification defines the standard for bikeshare open data. This specification outlines uniform formats for bikeshare data feeds so that transportation applications can utilize the data more efficiently.
 
 **Analysis**
 
-Election Markup Language is designed to be multinational, so that it could be adopted globally. However, it has had little in the way of adoption in the United States. The vast diversity in the types of democratic systems globally may be a major obstacle to the widespread adoption of this system. The EML standard could be more widely adopted if e-voting, or internet voting, took off in a more substantial way.Since the EML standard covers the end-to-end process of voting, it could streamline and simplify the process of setting up such a system. The United Kingdom experimented with using the EML standard for an e-voting pilot and Belgium currently uses EML in its local government elections.
+The North American Bikeshare Association has lead the charge in encouraging the adoption of the General Bikeshare Feed open data standard by bikeshare companies. Several industry leaders agreed to implement the standard by the end of 2015. 
 
 **Additional Resources**
 
-* North American Bikeshare Systems Adopt Open Data Standard, NABSA press release 11/23/15
-* Bike-Share Open Data Standard Clears the Way for Better Trip Planning Apps, Streetsblog 11/25/15
+* NABSA press release RE: North American Bikeshare Systems Adopt Open Data Standard: http://us11.campaign-archive1.com/?u=8327d4c9221c755645cd5334f&id=bfc8d7b6f0&e=ec9a6946e8
