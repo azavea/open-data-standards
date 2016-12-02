@@ -15,7 +15,7 @@ The General Bikeshare Feed specification defines the standard for bikeshare open
 
 **Analysis**
 
-The North American Bikeshare Association has lead the charge in encouraging the adoption of the General Bikeshare Feed open data standard by bikeshare companies. Several industry leaders agreed to implement the standard by the end of 2015. 
+The North American Bikeshare Association has lead the charge in encouraging the adoption of the General Bikeshare Feed open data standard by bikeshare companies. Several industry leaders agreed to implement the standard by the end of 2015. Bikeshare technology companies 
 
 **Additional Resources**
 
