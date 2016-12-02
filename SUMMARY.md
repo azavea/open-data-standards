@@ -1,4 +1,5 @@
 # Summary
+
 * [Introduction](README.md)
 * [Contribute](contribute.md)
 * [Domain-specific Standards](standards/domain-specific_standards.md)
@@ -18,6 +19,7 @@
    * [OpenTrails](standards/opentrails.md)
    * [Popolo](standards/popolo.md)
    * [Voting Information Project (VIP)](standards/voting_information_project_vip.md)
+   * General Bikeshare Feed
 * [General Standards: Data Catalogs](standards/general_standards_data_catalogs.md)
    * [CKAN API](standards/ckan_api.md)
    * [Data Catalog Vocabulary (DCAT)](standards/data_catalog_vocabulary_dcat.md)
