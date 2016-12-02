@@ -3,8 +3,6 @@
 | Item | Description |
 | --- | --- |
 | **Current Status** | Published |
-| **Version Number** |  |
-| **Key Contacts** |  |
 | **Implementing Agencies** | Municipal agencies, bikeshare technology companies |
 | **Documentation** | [https://github.com/NABSA/gbfs](https://github.com/NABSA/gbfs) |
 | **Founding/Sponsoring Organizations** | [NABSA](http://nabsa.net/) |
