@@ -3,7 +3,7 @@
 | Item | Description |
 | --- | --- |
 | **Current Status** | Published |
-| **Version Number** | v7.0 |
+| **Version Number** |  |
 | **Key Contacts** |  |
 | **Implementing Agencies** | Municipal agencies, bikeshare technology companies |
 | **Documentation** | [https://github.com/NABSA/gbfs](https://github.com/NABSA/gbfs) |
