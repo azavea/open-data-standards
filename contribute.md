@@ -18,10 +18,8 @@ We follow the 'imperative present tense' style for commit messages. (e.g.
 
 #### Issue Tracking
 
-If you find a bug and would like to report it please go there and create
-an issue. As always, if you need some help join us on
-[Gitter](https://gitter.im/locationtech/geotrellis) to chat with a
-developer.
+If you find a bug and would like to report it please navigate to the location and create
+an issue.
 
 #### Pull Requests
 
