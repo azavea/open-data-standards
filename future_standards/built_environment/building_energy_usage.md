@@ -1,7 +1,7 @@
 # Building Energy Usage
 | Item | Description |
 | --- | --- |
-| **Current Status** | http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.png Formal, Not Open, Under Development. |
+| **Current Status** | Formal, Not Open, Under Development. |
 | **Potential Implementing Agencies** | Building owners and managers |
 | **Potential Founding/Sponsoring Organizations** | Federal Office of Energy Efficiency &amp; Renewable Energy (Energy.gov) |
 <br>
