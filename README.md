@@ -11,6 +11,11 @@ Philadelphia, PA 19123<br>
 (215) 925-2600<br>
 [http://www.azavea.com](http://www.azavea.com)<br>
 
+## View the Open Data Standards Report
+
+[View the Open Data Standards Report on GitBook](https://azavea.gitbooks.io/open-data-standards/content/)
+
+You can view and [contribute](contribute.md) to the source code for the report within this repository (`open-data-standards`) on GitHub.
 
 ## Executive Summary
 This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards.
