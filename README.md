@@ -23,4 +23,4 @@ The criteria used to select the standards includes the following:
 *   *Location-based* - We will focus on standards that have a location component
 *   *Published standard* – There is documentation for the specification
 *   *Machine-readable* - Based on JSON, CSV, XML or similar structure
-*   *Adoption and used* - Adopted by at least one major US cities or heavily used by an aggregator of municipal data
+*   *Adoption and use* - Adopted by at least one major US city or heavily used by an aggregator of municipal data
