@@ -2,7 +2,7 @@
 
 | Item | Description |
 | --- | --- |
-| **Current Status** | http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, Not Open. |
+| **Current Status** | Not Open |
 | **Potential Implementing Agencies** | State and Local Departments of Transportation, traffic safety advocacy organizations, Regional Planning Organizations |
 | **Potential Founding/Sponsoring Organizations** | National Highway Traffic Safety Administration |
 <br>
