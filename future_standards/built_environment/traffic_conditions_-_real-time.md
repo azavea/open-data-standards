@@ -1,7 +1,7 @@
 # Traffic Conditions - Real-time
 | Item | Description |
 | --- | --- |
-| **Current Status** | http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, Not Open. |
+| **Current Status** | Not Open |
 | **Potential Implementing Agencies** | State Department of Transportation Agencies |
 | **Potential Founding/Sponsoring Organizations** | Federal Highway Administration |
 <br>
