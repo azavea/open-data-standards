@@ -13,4 +13,4 @@ The 511 system was established by the Federal Highway Administration but is impl
 
 *   National Traffic and Road Closure - [http://www.fhwa.dot.gov/trafficinfo/index.htm](http://www.fhwa.dot.gov/trafficinfo/index.htm)
 *   Status of 511 Deployment - [http://www.fhwa.dot.gov/trafficinfo/511.htm](http://www.fhwa.dot.gov/trafficinfo/511.htm)
-*   511 Guide - http://www.ops.fhwa.dot.gov/511/resources/publications/[511guide](http://www.ops.fhwa.dot.gov/511/resources/publications/511guide_ver3/511guide3.htm)_ver3/511guide3.htm
+*   511 Guide - [http://www.ops.fhwa.dot.gov/511/resources/publications/511guide_ver3/511guide3.htm]
