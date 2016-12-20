@@ -13,5 +13,4 @@ Parking data – including lot locations, meter locations and times, street park
 
 *   Streetline - [http://www.streetline.com/](http://www.streetline.com/)
 *   Intertraffic - [http://www.intertraffic.com/Pages/default.aspx](http://www.intertraffic.com/Pages/default.aspx)
-*   Intertraffic proposal for open data standard -[http://www.intertraffic.com/intertraffic-amsterdam/Documents/Open%20Parking%20Data%20Presentation%2013.30.pdf](http://www.intertraffic.com/intertraffic-amsterdam/Documents/Open%20Parking%20Data%20Presentation%2013.30.pdf)
 *   Netherlands (Beter Benutten)- [http://www.beterbenutten.nl/](http://www.beterbenutten.nl/)
