@@ -1,7 +1,7 @@
 # Traffic Monitoring and Volume
 | Item | Description |
 | --- | --- |
-| **Current Status** | http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngSome formal federal |
+| **Current Status** | Some formal federal |
 | **Potential Implementing Agencies** | State Department of Transportation Agencies |
 | **Potential Founding/Sponsoring Organizations** | Federal Highway Administration |
 <br>
