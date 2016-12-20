@@ -22,6 +22,6 @@ These new efforts to develop sensor data standards are being driven by the rapid
 *   Sensor Web Enablement Domain Working Group - [http://www.opengeospatial.org/projects/groups/sensorwebdwg](http://www.opengeospatial.org/projects/groups/sensorwebdwg)
 *   OGC Sensor Web for IOT overview - [http://www.opengeospatial.org/projects/groups/sweiotswg](http://www.opengeospatial.org/projects/groups/sweiotswg)
 *   XMPP Standards Foundation - [http://xmpp.org/](http://xmpp.org/)
-*   EPA Next Generation Air Measurement - [http://www.epa.gov/research/airscience/next-generation-air-measuring.htm](http://www.epa.gov/research/airscience/next-generation-air-measuring.htm)
+*   EPA Next Generation Air Measurement - [https://www.epa.gov/sciencematters/epas-next-generation-air-measuring-research]
 *   EPA Data Standards - [http://iaspub.epa.gov/sor_internet/registry/datastds/home/overview/home.do](http://iaspub.epa.gov/sor_internet/registry/datastds/home/overview/home.do)
 *   ESAR Overview - [http://www.exchangenetwork.net/standards/ESAR_Overview_01_06_2006_Final.pdf](http://www.exchangenetwork.net/standards/ESAR_Overview_01_06_2006_Final.pdf)
