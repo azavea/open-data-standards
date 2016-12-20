@@ -14,7 +14,7 @@ Providing this data in a standardized, machine-readable format would enable civi
 
 **Additional Resources**
 
-*   Fatality Analysis Reporting System - [http://www.nhtsa.gov/FARS](http://www.nhtsa.gov/FARS)
-*   NHTSA Traffic Records Division - [http://www.nhtsa.gov/Data/Traffic+Records](http://www.nhtsa.gov/Data/Traffic+Records)
+*   Fatality Analysis Reporting System - [https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars)
+*   NHTSA Traffic Records Division - [https://www.nhtsa.gov/research-data/traffic-records)
 *   Model Minimum Uniform Crash Criteria reporting standards - [http://www.mmucc.us/](http://www.mmucc.us/)
 *   2015 Traffic Fatalities Data Released: A Call to Action to Download and Analyze - [https://www.transportation.gov/fastlane/2015-traffic-fatalities-data-has-just-been-released-call-action-download-and-analyze](https://www.transportation.gov/fastlane/2015-traffic-fatalities-data-has-just-been-released-call-action-download-and-analyze)
