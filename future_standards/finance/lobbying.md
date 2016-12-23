@@ -11,5 +11,5 @@ Some states (for example: Indiana [http://www.in.gov/ilrc/2335.htm](http://www.i
 
 **Additional Resources**
 
-*   Sunlight Foundation Municipal Lobbying Data Guidebook - [http://sunlightfoundation.com/policy/municipal_lobbying_data_guidebook/](http://sunlightfoundation.com/policy/municipal_lobbying_data_guidebook/)
+*   Sunlight Foundation Municipal Lobbying Data Guidebook - [http://assets.sunlightfoundation.com.s3.amazonaws.com/policy/muni/Municipal%20Lobbying%20Data%20Guidebook.pdf](http://assets.sunlightfoundation.com.s3.amazonaws.com/policy/muni/Municipal%20Lobbying%20Data%20Guidebook.pdf)
 *   Sunlight Foundation Research - [http://sunlightfoundation.com/policy/municipal_lobbying/](http://sunlightfoundation.com/policy/municipal_lobbying/)
