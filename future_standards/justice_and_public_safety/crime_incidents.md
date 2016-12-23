@@ -1,7 +1,7 @@
 # Crime Incidents
 | Item | Description |
 | --- | --- |
-| **Current Status** | http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/matte-grey-square-icons-business/118946-matte-grey-square-icon-business-lock6-sc48.pngFormal, commercial, none are sufficiently established. |
+| **Current Status** | Commercial, none are sufficiently established |
 | **Potential Implementing Agencies** | Local and State Police Organizations |
 | **Potential Founding/Sponsoring Organizations** | Federal Bureau of Investigation |
 <br>
