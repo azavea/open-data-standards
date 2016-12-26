@@ -24,7 +24,7 @@ an issue.
 #### Pull Requests
 
 If you'd like to submit a code contribution please fork `open-data-standards` and send  
-us pull request against the `master` branch. Like any other open source   
+us pull request against the `master` branch. Like any other open source  
 project, we might ask you to go through some discussion and  
 refinement before merging.
 
@@ -35,5 +35,7 @@ refinement before merging.
 * propose an additional future standard
 * identify proposed future standard users
 
+## License
 
+All contributions accepted to and published as part of this book will be released under a CC-BY-SA license.
 
