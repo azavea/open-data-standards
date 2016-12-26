@@ -18,7 +18,7 @@ Philadelphia, PA 19123<br>
 You can view and [contribute](contribute.md) to the source code for the report within this repository (`open-data-standards`) on GitHub.
 
 ## Executive Summary
-This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards.
+This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards or some nascent work is complete but adoption is not yet widespread.
 
 ## Criteria for Selecting Standards
 This report is organized into two sections, one for standards that have been released and are in use in at least a few cities, and a second section for potential new standards.
@@ -26,6 +26,6 @@ This report is organized into two sections, one for standards that have been rel
 The criteria used to select the standards includes the following:
 
 *   *Location-based* - We will focus on standards that have a location component
-*   *Published standard* – There is documentation for the specification
+*   *Published standard* – Documentation for the specification has been published and is available online
 *   *Machine-readable* - Based on JSON, CSV, XML or similar structure
-*   *Adoption and use* - Adopted by at least one major US city or heavily used by an aggregator of municipal data
+*   *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data
