@@ -8,24 +8,24 @@ Reach out to us via the [Azavea contact page](https://www.azavea.com/contact-us/
 
 #### Git Branching Model
 
-The Open Data Standards Report documentation follows the standard practice of using the `master`
+The Open Data Standards Report documentation follows the standard practice of using the `master`  
 branch as main integration branch.
 
 #### Git Commit Messages
 
-We follow the 'imperative present tense' style for commit messages. (e.g.
-"Create standards/general_bikeshare_feed.md")
+We follow the 'imperative present tense' style for commit messages. \(e.g.  
+"Create standards/general\_bikeshare\_feed.md"\)
 
 #### Issue Tracking
 
-If you find a bug and would like to report it please navigate to the location and create
+If you find an error in the text or a missing standard,  please navigate to the relevant file location and create  
 an issue.
 
 #### Pull Requests
 
-If you'd like to submit a code contribution please fork `open-data-standards` and send
-us pull request against the `master` branch. Like any other open source
-project, we might ask you to go through some iterations of discussion and
+If you'd like to submit a code contribution please fork `open-data-standards` and send  
+us pull request against the `master` branch. Like any other open source   
+project, we might ask you to go through some discussion and  
 refinement before merging.
 
 ## Ways to Contribute
@@ -34,3 +34,6 @@ refinement before merging.
 * propose a change to a documented standard
 * propose an additional future standard
 * identify proposed future standard users
+
+
+
