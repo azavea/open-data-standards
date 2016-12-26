@@ -29,3 +29,9 @@ The criteria used to select the standards includes the following:
 *   *Published standard* – Documentation for the specification has been published and is available online
 *   *Machine-readable* - Based on JSON, CSV, XML or similar structure
 *   *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data
+
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br>
+The Open Data Standards Report by Azavea is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
