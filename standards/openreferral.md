@@ -3,7 +3,7 @@
 | --- | --- |
 | **Current Status** | Initial drafts complete; implementation in a couple of cities. |
 | **Version Number** | First draft of Human Services Data Specification |
-| **Key Contacts** | Community Group:[https://groups.google.com/forum/#!forum/openreferral](https://groups.google.com/forum/#!forum/openreferral) |
+| **Key Contacts** | Community Group: [https://groups.google.com/forum/#!forum/openreferral](https://groups.google.com/forum/#!forum/openreferral) |
 | **Implementing Agencies** | Varies – usually a 211 system; regional United Way; or municipal/county human services agency |
 | **Documentation** | Documentation: [https://www.openreferral.org/documentation/](https://www.openreferral.org/documentation/) |
 | **Founding/Sponsoring Organizations** | Code for America, Purple Binder, [Ohana Project](http://ohanapi.org/) |
