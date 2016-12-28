@@ -6,7 +6,7 @@
 | **Version Number** | 1.1 |
 | **Key Contacts** | Jack Madans: jack@codeforamerica.org |
 | **Implementing Agencies** | City of Portland, Oregon, Northeast Ohio (Cuyahoga Valley) |
-| **Documentation** | Specification:[https://www.codeforamerica.org/specifications/trails/spec.html](https://www.codeforamerica.org/specifications/trails/spec.html) |
+| **Documentation** | Specification: [https://www.codeforamerica.org/specifications/trails/spec.html](https://www.codeforamerica.org/specifications/trails/spec.html) |
 | **Founding/Sponsoring Organizations** | City of Portland, Code for America, Esri Portland R&amp;D Center, Strava, All Trails, National Recreation and Parks Association, GreenInfo Network, Trust for Public Lands, Intertwine Alliance, Trailhead Labs |
 <br>
 **Background**
