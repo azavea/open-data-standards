@@ -5,7 +5,7 @@
 | **Version Number** | 1.0.1 |
 | **Key Contacts** | James McKinney james@opennorth.ca |
 | **Implementing Agencies** | Governments, open government organizations |
-| **Documentation** | Specification:[http://popoloproject.com/specs/](http://popoloproject.com/specs/) |
+| **Documentation** | Specification: [http://popoloproject.com/specs/](http://popoloproject.com/specs/) |
 | **Founding/Sponsoring Organizations** | OpenNorth |
 <br>
 **Background**
@@ -18,4 +18,4 @@ Popolo is an open government specification that seeks to set a standard naming s
 
 **Additional Resources**
 
-* Github repo:[https://github.com/opennorth/popolo-spec](https://github.com/opennorth/popolo-spec)
+* Github repo: [https://github.com/opennorth/popolo-spec](https://github.com/opennorth/popolo-spec)
