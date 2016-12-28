@@ -23,5 +23,3 @@ The Open311 standard is one of the earliest and best established open data stand
     *   [http://wiki.open311.org/GeoReport_v2/Resources](http://wiki.open311.org/GeoReport_v2/Resources)
 
     *   [http://wiki.open311.org/API](http://wiki.open311.org/API)
-
-*   Status of Open311 systems in the US: [http://open311status.herokuapp.com/](http://open311status.herokuapp.com/)
