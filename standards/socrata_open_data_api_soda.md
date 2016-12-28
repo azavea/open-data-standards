@@ -6,7 +6,7 @@
 | **Version Number** | 1.0? (documentation does not list a version number) |
 | **Key Contacts** | Unknown |
 | **Implementing Agencies** | New York, Chicago, Baltimore and several other large U.S. cities |
-| **Documentation** | Getting Started:[http://dev.socrata.com/consumers/getting-started.html](http://dev.socrata.com/consumers/getting-started.html) |
+| **Documentation** | Getting Started: [http://dev.socrata.com/consumers/getting-started.html](http://dev.socrata.com/consumers/getting-started.html) |
 | **Founding/Sponsoring Organizations** | Socrata |
 <br>
 **Background and Analysis**
