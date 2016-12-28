@@ -8,4 +8,4 @@ This standard may become more important as software tools are developed to suppo
 
 **Additional Resources**
 
-*   Summary of LADM by the International Federal of Surveyors - [http://www.fig.net/news/news_2013/ladm2013/01.pdf](http://www.fig.net/news/news_2013/ladm2013/01.pdf)
+*   Summary of LADM by the International Federal of Surveyors - [https://www.fig.net/news/news_2013/ladm2013/welcome-ladm.pdf](https://www.fig.net/news/news_2013/ladm2013/welcome-ladm.pdf)
