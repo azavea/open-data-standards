@@ -13,5 +13,5 @@ While the OpenStreetMap database provides a way to encode address information, t
 
 **Additional Resources**
 
-*   Federal Geographic Data Committee (FGDC) United States Thoroughfare, Landmark and Postal Address Data Standard [https://www.fgdc.gov/standards/projects/FGDC-standards-projects/street-address/index_html](https://www.fgdc.gov/standards/projects/FGDC-standards-projects/street-address/index_html)
+*   Federal Geographic Data Committee (FGDC) United States Thoroughfare, Landmark and Postal Address Data Standard [https://www.fgdc.gov/standards/projects/address-data)
 *   OpenAddresses - [http://openaddresses.io/](http://openaddresses.io/)
