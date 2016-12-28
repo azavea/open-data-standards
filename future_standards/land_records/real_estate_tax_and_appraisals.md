@@ -11,4 +11,4 @@ Real estate property tax assessment and tax paid by property owners is generally
 
 **Additional Resources**
 
-*   Uniform Standards of Professional Appraisal Practice (USPAP) – http://[www.uspap.org](http://www.uspap.org)/
+*   Uniform Standards of Professional Appraisal Practice (USPAP) – [http://www.uspap.org](http://www.uspap.org)
