@@ -1,6 +1,5 @@
 # Open Data Standards {#open-data-standards}
-
-Add an Image
+![](images/open-data-standards-tiles.jpg)
 
 Prepared by:
 
