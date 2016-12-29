@@ -20,7 +20,14 @@ You can view and [contribute](contribute.md) to the source code for the report w
 ## Executive Summary
 This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards or some nascent work is complete but adoption is not yet widespread.
 
+## Why write this report?
+Azavea is a B Corp whose mission is.... 
+
+We have been involved in open data in a number of ways for several years: OpenDataPhilly, VIP, GoPhillyGo, open source, etc.
+
 ## Why do open data standards matter?
+Open data + open standards + open source
+
 Make open data more valuable by making it easier to build new tools and applications
 Enable comparisons between locations
 Support the development of an ecosystem
@@ -34,7 +41,7 @@ This report is organized into two sections, one for standards that have been rel
 
 The criteria used to select the standards includes the following:
 
-*   *Location-based* - We will focus on standards that have a location component
+*   *Location-based* - Azavea is a geospatial analysis and visualization company, so we have focused on standards that have a location component
 *   *Published standard* – Documentation for the specification has been published and is available online
 *   *Machine-readable* - Based on JSON, CSV, XML or similar structure
 *   *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data
