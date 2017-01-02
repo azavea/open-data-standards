@@ -1,11 +1,13 @@
 # Open311
 | Item | Description |
 | --- | --- |
-| **Current Status** | Wide Adoption |
+| **Current Status** | Broad adoption |
 | **Version Number** | GeoReport v2, Inquiry v2 (draft) |
 | **Key Contacts** | Philip Ashlock, phil@civicagency.org |
 | **Implementing Agencies** | City Agencies that collect 311 (or equivalent) data |
-| **Documentation** | [http://www.open311.org/2009/09/open311-is-a-specification-for-an-open-platform/](http://www.open311.org/2009/09/open311-is-a-specification-for-an-open-platform/) |
+| **Documentation** | [http://www.open311.org/2009/09/open311-is-a-specification-for-an-open-platform/](http://www.open311.org/2009/09/open311-is-a-specification-for-an-open-platform/)<br>
+[http://wiki.open311.org/GeoReport_v2/](GeoReport v2 API documentation)<br>
+[http://wiki.open311.org/Inquiry_v1/](GeoInquiry v2 API documentation) |
 | **Founding/Sponsoring Organizations** | Open Plans |
 <br>
 **Background**
@@ -18,8 +20,5 @@ The Open311 standard is one of the earliest and best established open data stand
 
 **Additional Resources**
 
-*   Additional documentation
-
     *   [http://wiki.open311.org/GeoReport_v2/Resources](http://wiki.open311.org/GeoReport_v2/Resources)
-
     *   [http://wiki.open311.org/API](http://wiki.open311.org/API)
