@@ -1,4 +1,4 @@
-# Open Data Standards {#open-data-standards}
+# Open Data Standards
 ![](images/open-data-standards-tiles.jpg)
 
 Prepared by:
@@ -10,8 +10,10 @@ Philadelphia, PA 19123<br>
 (215) 925-2600<br>
 [http://www.azavea.com](http://www.azavea.com)<br>
 
-## View the Open Data Standards Report
-You can view and [contribute](contribute.md) to the source code for the report within this repository (`open-data-standards`) on GitHub.
+## View and Contribute
+The online version of the Open Data Standards Report is available as a [GitBook](https://azavea.gitbooks.io/open-data-standards/content/).
+
+You can view and [contribute](contribute.md) to the project by [working on issues](https://github.com/azavea/open-data-standards/issues/) and issuing pull requests via the [GitHub project](https://github.com/azavea/open-data-standards/).
 
 ## Executive Summary
 This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards or some nascent work is complete but adoption is not yet widespread.
