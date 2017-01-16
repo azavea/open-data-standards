@@ -56,5 +56,3 @@ TODO: write intro to how you can support open data standards
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br>
 The Open Data Standards Report by <a href="http://www.azavea.com">Azavea</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-TEST EDIT FROM GIT BOOK
