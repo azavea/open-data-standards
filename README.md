@@ -11,20 +11,18 @@ Philadelphia, PA 19123<br>
 [http://www.azavea.com](http://www.azavea.com)<br>
 
 ## View the Open Data Standards Report
-
-[View the Open Data Standards Report on GitBook](https://azavea.gitbooks.io/open-data-standards/content/)
-
 You can view and [contribute](contribute.md) to the source code for the report within this repository (`open-data-standards`) on GitHub.
 
 ## Executive Summary
 This document is an effort to outline the state of open data standards in several civic domains, as well as to suggest domains in which there is strong potential for developing new standards or some nascent work is complete but adoption is not yet widespread.
 
 ## Why write this report?
-Azavea is a B Corp whose mission is.... 
+Azavea is a B Corp with a mission to apply geospatial technology for civic, social, and environmental impact while advancing the state-of-the-art through research. We work on projects that range from climate change to public transit and from homelessness to public safety. Almost every project we develop relies, at least in part, on open data. We also developed and continue to operate the open data portal for Philadelphia, [OpenDataPhilly](http://www.opendataphilly.org/), and we share much of our work by releasing our software under open source licenses (check out a few examples at [OpenTreeMap](http://www.opentreemap.org/), [GeoTrellis](http://geotrellis.io), and [DistrictBuilder](http://www.districtbuilder.org/)). We want to encourage and cultivate broad use of open data, open source, open standards, and open algorithms, because we believe it results in better, more functional cities.
 
-We have been involved in open data in a number of ways for several years: OpenDataPhilly, VIP, GoPhillyGo, open source, etc.
 
 ## Why do open data standards matter?
+TODO: write para on why standards matter
+
 Open data + open standards + open source
 
 Make open data more valuable by making it easier to build new tools and applications
@@ -32,7 +30,7 @@ Enable comparisons between locations
 Support the development of an ecosystem
 Stories: GTFS, LIVES
 
-We organized these standards into standards that are in use and already having an impact and potential future standards - nascent efforts that are not yet widely adopted but have potential and may turn into new standards down the road.
+We organized these standards into two groups: 1) those that are in use and having an impact; and 2) potential future standards - nascent efforts that are not yet widely adopted but have potential and may turn into new standards down the road.
 
 
 ## Criteria for Selecting Standards
@@ -40,16 +38,17 @@ This report is organized into two sections, one for standards that have been rel
 
 The criteria used to select the standards includes the following:
 
-*   *Location-based* - Azavea is a geospatial analysis and visualization company, so we have focused on standards that have a location component
-*   *Published standard* – Documentation for the specification has been published and is available online
-*   *Machine-readable* - Based on JSON, CSV, XML or similar structure
-*   *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data
+ * *Location-based* - Azavea is a geospatial analysis and visualization company, so we have focused on standards that have a location component; that turns out to not limit us very much as the vast majority of data being released by government has a location component to it.
+ * *Published standard* – Documentation for the specification has been published and is available online.
+ * *Machine-readable* - Based on JSON, CSV, XML or similar structure that can be consumed by software in a consistent, organized way
+ * *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data
 
 ## What can I do to support open data standards?
-Local open data portal, see if it's being published to a standard, if not, contact open data people
-Build new tools that leverage standards - CfA brigades
-Talk to local elected officials about open data
-Contribute to OpenStreetMap - HOT, MissingMaps
+TODO: write intro to how you can support open data standards
+ * Local open data portal, see if it's being published to a standard, if not, contact open data people
+ * Build new tools that leverage standards - CfA brigades
+ * Talk to local elected officials about open data
+ * Contribute to OpenStreetMap - HOT, MissingMaps
 
 
 ## License
