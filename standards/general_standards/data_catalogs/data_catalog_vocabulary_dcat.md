@@ -15,4 +15,4 @@ DCAT is an RDF vocabulary designed to facilitate interoperability between data c
 
 **Analysis**
 
-The DCAT standard is the basis for the [Data.json and Common Core Metadata](../../standards/general_standards/data_catalogs/datajson_common_core_metadata.md) effort, below.
+The DCAT standard is the basis for the [Data.json and Common Core Metadata](../../../standards/general_standards/data_catalogs/datajson_common_core_metadata.md) effort, below.
