@@ -26,7 +26,7 @@
         * [OGC Catalogue Standard (CSW)](../standards/general_standards/data_catalogs/ogc_catalogue_standard_csw.md)
         * [Socrata Open Data API (SODA)](../standards/general_standards/data_catalogs/socrata_open_data_api_soda.md)
 
-   * [Geospatial Data](../standards/general_standards/geospatial_data/general_standards/geospatial_data/geospatial_data.md)
+   * [Geospatial Data](../standards/general_standards/geospatial_data/geospatial_data.md)
        * [GeoJSON](../standards/general_standards/geospatial_data/geojson.md)
        * [Keyhole Markup Language (KML)](../standards/general_standards/geospatial_data/keyhole_markup_language_kml.md)
        * [OGC GeoPackage](../standards/general_standards/geospatial_data/ogc_geopackage.md)
