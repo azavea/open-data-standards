@@ -19,7 +19,7 @@
     * [Voting Information Project (VIP)](../standards/domain_specific_standards/voting_information_project_vip.md)
 
 * [General Standards](../standards/general_standards/general_standards.md)
-    * [Data Catalogs](../../standards/general_standards/data_catalogs/data_catalogs.md)
+    * [Data Catalogs](../standards/general_standards/data_catalogs/data_catalogs.md)
         * [CKAN API](../../standards/general_standards/data_catalogs/ckan_api.md)
         * [Data Catalog Vocabulary (DCAT)](../../standards/general_standards/data_catalogs/data_catalog_vocabulary_dcat.md)
         * [Data.json and Common Core Metadata](../../standards/general_standards/data_catalogs/datajson_common_core_metadata.md)
