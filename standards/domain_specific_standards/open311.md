@@ -18,7 +18,9 @@ A 311 phone number allows for non-emergency municipal service issue reporting fo
 The Open311 standard is one of the earliest and best established open data standards. It is in wide use across the United States. Some of the best-known platforms that have adopted this system are FixMyStreet in the UK and SeeClickFix in the US. This standard is utilized by the following cities (among many others): Chicago, IL; Toronto, ON; San Francisco, CA; Washington, DC; Boston, MA; New York City, NY. As 311 becomes a more commonplace service provided by municipalities, the further adoption and improvement of this standard is anticipated.
 
 **Additional Resources**
+ * [What is Open311?](http://www.open311.org/learn/)
  * [Open311 API](http://wiki.open311.org/API)
  * [GeoReport v2 API documentation](http://wiki.open311.org/GeoReport_v2/)
  * [GeoInquiry v2 API documentation](http://wiki.open311.org/Inquiry_v1/)
  * [GeoReport Resources](http://wiki.open311.org/GeoReport_v2/Resources)
+ * [CfA Open311 Dashboard project](https://github.com/codeforamerica/open311dashboard)
