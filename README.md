@@ -10,6 +10,10 @@ Prepared by:
 Philadelphia, PA 19123<br>
 (215) 925-2600<br>
 [http://www.azavea.com](http://www.azavea.com)<br>
+<a rel="external" href="https://twitter.com/azavea"><img alt="Azavea Twitter" height="24" src="images/twitter_icon.png" /></a>
+<a rel="external" href="https://www.facebook.com/Azavea/"><img alt="Azavea Facebook" height="24" src="images/facebook_icon.png" /></a>
+<a rel="external" href="https://www.linkedin.com/company/azavea"><img alt="Azavea LinkedIn" height="24" src="images/linkedin_icon.png" /></a>
+<a rel="external" href="https://github.com/azavea"><img alt="Azavea GitHub" height="24" src="images/github_icon.png" /></a>
 
 ## View and Contribute
 The online version of the Open Data Standards Report is available as a [GitBook](https://azavea.gitbooks.io/open-data-standards/content/).
