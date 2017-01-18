@@ -10,7 +10,7 @@
 <br>
 **Background**
 
-The Google Civic Information API was originally released in private beta as a unified source for elections, polling places and other data from the Voting Information Project (see below). In fall 2013, it was extended to include the ability to look up elected office holders at the local, state and national levels. The API currently supports:
+The Google Civic Information API was originally released in private beta as a unified source for elections, polling places and other data from the [Voting Information Project (VIP)](../../standards/domain_specific_standards/voting_information_project_vip.md). In fall 2013, it was extended to include the ability to look up elected office holders at the local, state and national levels. The API currently supports:
 
 *   Elections (based in VIP)
 
