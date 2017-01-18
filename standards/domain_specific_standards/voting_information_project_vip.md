@@ -10,7 +10,7 @@
 <br>
 **Background**
 
-The idea for the Voting Information Project (VIP) came out of the election analysis report, “Being Online Is Not Enough”, produced by the Pew Charitable Trusts in 2008\. One of the report&#039;s major findings was that providing on-demand access about voting information helps governments save money by reducing phone calls and visits by voters. Following the report, as a joint-effort between the Pew Charitable Trusts and Google, the VIP partnered with 9 states to provide pertinent voting information to citizens. In the 2010 election cycle, 20 states began contributing data feeds to the project.
+The idea for the Voting Information Project (VIP) came out of the election analysis report, “Being Online Is Not Enough”, produced by the Pew Charitable Trusts in 2008. One of the report&#039;s major findings was that providing on-demand access about voting information helps governments save money by reducing phone calls and visits by voters. Following the report, as a joint-effort between the Pew Charitable Trusts and Google, the VIP partnered with 9 states to provide pertinent voting information to citizens. In the 2010 election cycle, 20 states began contributing data feeds to the project.
 
 **Analysis**
 
