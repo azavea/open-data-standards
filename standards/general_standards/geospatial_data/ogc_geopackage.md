@@ -10,7 +10,7 @@
 <br>
 **Background**
 
-This standard was developed as a successor to the popular shapefile format. This OGC Encoding Standard defines GeoPackages for exchange and GeoPackage SQLite Extensions for direct use of vector geospatial features and / or tile matrix sets of earth images and raster maps at various scales.
+This standard was developed as a successor to the popular [shapefile](../../standards/shapefile.md) format. This OGC Encoding Standard defines GeoPackages for exchange and GeoPackage SQLite Extensions for direct use of vector geospatial features and/or tile matrix sets of earth images and raster maps at various scales.
 
 This direct use allows support by an environment, like an API, and means the user can access and edit data in a native storage format without intermediate format transactions. Identical requests from different client applications produce identical access and edit results and maintain data integrity.
 
