@@ -10,7 +10,7 @@
 <br>
 **Background**
 
-James McKinney, civic developer, co-founder of OpenNorth, and part of the OpenGovernment.org team, conceived Popolo as a way to create an open government data scheme that could easily be re-used by other civic developers. The project was created and launched in 2013\. While it is a standalone standard, in 2014, Popolo was adopted as the basis for the Open Civic Data (OCD) People, Organization and Membership component.
+James McKinney, civic developer, co-founder of [OpenNorth](http://www.opennorth.ca/), and part of the [OpenGovernment.org](http://opengovernment.org/) team, conceived Popolo as a way to create an open government data scheme that could easily be re-used by other civic developers. The project was created and launched in 2013. While it is a standalone standard, in 2014, Popolo was adopted as the basis for the [Open Civic Data](../../standards/domain_specific_standards/open_civic_data.md) People, Organization and Membership component.
 
 **Analysis**
 
