@@ -20,7 +20,7 @@
         * [OpenReferral](standards/domain_specific_standards/openreferral.md)
         * [OpenTrails](standards/domain_specific_standards/opentrails.md)
         * [Popolo](standards/domain_specific_standards/popolo.md)
-        * [Traffic Monitoring and Volume](future_standards/built_environment/traffic_monitoring_and_volume.md)
+        * [Traffic Monitoring and Volume](standards/domain_specific_standards/traffic_monitoring_and_volume.md)
         * [Voting Information Project \(VIP\)](standards/domain_specific_standards/voting_information_project_vip.md)
     * [General Standards](standards/general_standards/general_standards.md)
         * [Data Catalogs](standards/general_standards/data_catalogs/data_catalogs.md)
