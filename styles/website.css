@@ -1,1 +1,5 @@
 /* CSS for website */
+th {
+    background-color: @gb-palette-gray-dark;
+    color: #333;
+}
