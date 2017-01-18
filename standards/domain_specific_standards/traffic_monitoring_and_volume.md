@@ -1,13 +1,20 @@
 # Traffic Monitoring and Volume
 | Item | Description |
 | --- | --- |
-| **Current Status** | World Bank project; some formal federal |
-| **Potential Implementing Agencies** | State Department of Transportation Agencies |
-| **Potential Founding/Sponsoring Organizations** | Federal Highway Administration |
+| **Current Status** | Adopted by World Bank and some federal agencies |
+| **Version Number** |  |
+| **Key Contacts** |  |
+| **Implementing Agencies** | World Bank, government transportation agencies |
+| **Documentation** | [World Bank OpenTraffic project](http://opentraffic.io/) |
+| **Founding/Sponsoring Organizations** | World Bank |
 <br>
-**Analysis -- Future Potential and Adoption**
+**Background**
 
-Traffic volume is monitored by several entities.The US Department of Transportation, Federal Highway Administration collects data from 4,000 continuous traffic counting locations in the federal highway system.This Traffic Volume Trends (TVT) is reported by State DoTs monthly and published in PDF and Excel formats.State DOTs and local transportation agencies carry about significant additional traffic surveys.This more detailed data may be published by a few municipalities, but there is no data standard for doing so.The data is most readably available from private firms that aggregate, display or package the data, including Streetlytics, Google Maps, Waze and others.
+**REQUIRES EDITING** Traffic volume is monitored by several entities.The US Department of Transportation, Federal Highway Administration collects data from 4,000 continuous traffic counting locations in the federal highway system.This Traffic Volume Trends (TVT) is reported by State DoTs monthly and published in PDF and Excel formats.State DOTs and local transportation agencies carry about significant additional traffic surveys.This more detailed data may be published by a few municipalities, but there is no data standard for doing so.The data is most readably available from private firms that aggregate, display or package the data, including Streetlytics, Google Maps, Waze and others.
+
+**Analysis**
+
+**REQUIRES EDITING** Traffic volume is monitored by several entities.The US Department of Transportation, Federal Highway Administration collects data from 4,000 continuous traffic counting locations in the federal highway system.This Traffic Volume Trends (TVT) is reported by State DoTs monthly and published in PDF and Excel formats.State DOTs and local transportation agencies carry about significant additional traffic surveys.This more detailed data may be published by a few municipalities, but there is no data standard for doing so.The data is most readably available from private firms that aggregate, display or package the data, including Streetlytics, Google Maps, Waze and others.
 
 **Additional Resources**
 *   World Bank OpenTraffic project
