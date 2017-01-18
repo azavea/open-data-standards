@@ -2,7 +2,7 @@
 
 <a rel="external" href="https://azavea.gitbooks.io/open-data-standards/content/"><img alt="Open Data Standards GitBook" style="border-width:0" src="images/open-data-standards-tiles.jpg" /></a>
 
-Prepared by:
+##Prepared by:
 
 <a rel="external" href="http://www.azavea.com"><img alt="Azavea - Beyond Dots On A Map" style="border-width:0" src="images/azavea_trans_sm.png" /></a>
 
