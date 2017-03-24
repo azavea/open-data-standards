@@ -4,6 +4,7 @@
 * [Contribute](contribute.md)
 * [Existing Standards](standards/existing-standards.md)
     * [Domain-specific Standards](standards/domain_specific_standards/domain-specific_standards.md)
+        * [360 Giving](standards/domain_specific_standards/360giving.md)
         * [Akoma Ntoso](standards/domain_specific_standards/akoma_ntoso.md)
         * [Common Alerting Protocol](standards/domain_specific_standards/common_alerting_protocol.md)
         * [Election Markup Language \(EML\)](standards/domain_specific_standards/election_markup_language_eml.md)
