@@ -35,13 +35,7 @@ refinement before merging.
 * propose an additional future standard
 * identify proposed future standard users
 
-## \#\# License
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br>
 
-&lt;a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /&gt;&lt;/a&gt;&lt;br&gt;
-
-The Open Data Standards Report by &lt;a href="http://www.azavea.com"&gt;Azavea&lt;/a&gt; is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-
-.
-
-
-
+The Open Data Standards Report by <a href="http://www.azavea.com">Azavea</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
