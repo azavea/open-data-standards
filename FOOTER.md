@@ -1,1 +1,1 @@
-Open Data Standards created by Azavea
+Open Data Standards created by <a href="https://www.azavea.com/">Azavea</a>
