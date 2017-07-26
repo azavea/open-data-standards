@@ -1,1 +1,52 @@
 /* CSS for website */
+
+.tooltipped.tooltipped-overlay {
+    display: inline-block;
+}
+.tooltipped {
+    display: inline;
+    position: relative;
+}
+
+.tooltipped:hover:before, .tooltipped.tooltipped-o:before {
+    border: solid;
+    border-color: #4a4e57 transparent;
+    bottom: auto;
+    top: calc(100% + 5px);
+    border-width: 0px 5px 5px 5px;
+    content: "";
+    display: block;
+    left: 50%;
+    position: absolute;
+    z-index: 301;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.tooltipped:hover:after, .tooltipped.tooltipped-o:after {
+    line-height: 1em;
+    background: #4a4e57;
+    border-radius: 2px;
+    bottom: auto;
+    top: calc(100% + 10px);
+    color: #fff;
+    content: attr(aria-label);
+    display: block;
+    left: 50%;
+    padding: 5px 5px;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 300;
+    font-size: 13px;
+    text-transform: none;
+    font-weight: 400;
+    pointer-events: none;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
