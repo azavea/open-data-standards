@@ -8,13 +8,19 @@
 | **Documentation** | [World Bank OpenTraffic project](http://opentraffic.io/) |
 | **Founding/Sponsoring Organizations** | World Bank |
 <br>
+
 **Background**
 
-**REQUIRES EDITING** Traffic volume is monitored by several entities.The US Department of Transportation, Federal Highway Administration collects data from 4,000 continuous traffic counting locations in the federal highway system.This Traffic Volume Trends (TVT) is reported by State DoTs monthly and published in PDF and Excel formats.State DOTs and local transportation agencies carry about significant additional traffic surveys.This more detailed data may be published by a few municipalities, but there is no data standard for doing so.The data is most readably available from private firms that aggregate, display or package the data, including Streetlytics, Google Maps, Waze and others.
+Traffic volume is monitored by several entities. The US Department of Transportation, Federal Highway Administration collects data from 4,000 continuous traffic counting locations in the federal highway system. Traffic volume trends are reported by State DoTs monthly and published in PDF and Excel formats.
+
+OpenTraffic, a collaborative project of the World Bank Group, Conveyal, and Mapzen, is coordinating efforts to develop an open source software platform that displays anonymized traffic statistics.
+
 
 **Analysis**
 
-**REQUIRES EDITING** Traffic volume is monitored by several entities.The US Department of Transportation, Federal Highway Administration collects data from 4,000 continuous traffic counting locations in the federal highway system.This Traffic Volume Trends (TVT) is reported by State DoTs monthly and published in PDF and Excel formats.State DOTs and local transportation agencies carry about significant additional traffic surveys.This more detailed data may be published by a few municipalities, but there is no data standard for doing so.The data is most readably available from private firms that aggregate, display or package the data, including Streetlytics, Google Maps, Waze and others.
+While U.S. State DOTs and local transportation agencies conduct significant additional traffic surveys and distribute data, there is not wide adoption of a standard. The data is most readily available from private firms that aggregate and display the data, including Streetlytics, Google Maps, Waze, and others.
+
+OpenTraffic is an effort to create a platform that will enable accurate routing, estimated time of arrival, and travel statistical calculations based on traffic feeds. An rise in users may increase the number of entities using the Traffic Monitoring and Volume standard.
 
 **Additional Resources**
 *   World Bank OpenTraffic project
