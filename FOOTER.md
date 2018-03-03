@@ -1,1 +1,1 @@
-<font size="10">_Open Data Standards_ is maintained by [Azavea](https://www.azavea.com/), a B Corporation that creates geospatial technology for positive civic, social, and environmental impact.</font>
+<font size="10">_Open Civic Data Standards_ is maintained by [Azavea](https://www.azavea.com/), a B Corporation that applies geospatial technology, data analytics, and research for positive civic, social, and environmental impact.</font>
