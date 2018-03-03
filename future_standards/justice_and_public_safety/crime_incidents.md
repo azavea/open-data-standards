@@ -5,7 +5,8 @@
 | **Potential Implementing Agencies** | Local and State Police Organizations |
 | **Potential Founding/Sponsoring Organizations** | Federal Bureau of Investigation |
 <br>
-**Analysis -- Future Potential and Adoption**
+
+## Analysis -- Future Potential and Adoption
 
 There have been several efforts related to publication of crime data. Only one of these, an effort by a commercial company, is aimed at open, public data publishing. Each of the various efforts each deserve some mention, but we believe there remains significant opportunity to develop a standard that is similar to the Open311 system in the sense that it combines both an API and a data structure standard.
 
@@ -13,7 +14,7 @@ There have been several efforts related to publication of crime data. Only one o
 
 SpotCrime, an online aggregator of crime data, has developed a prototype for crime reporting standard known as the SpotCrime Open Crime Standard (SOCS). SpotCrime also offers Catapult, a free software product to export crime records, which reports data in this new standard. However, the effort is based on the private company and does not yet appear to be used by any departments. With the addition of the right partners, we believe it might provide a good starting point for a useful standard. We also believe it would be most useful if it was designed to combine both data structure and API, similar to the Open311 standard.
 
-**Additional Resources**
+## Additional Resources
 
 *   SpotCrime Documentation: [http://blog.spotcrime.com/2014/03/the-spotcrime-open-crime-data-standard.html](http://blog.spotcrime.com/2014/03/the-spotcrime-open-crime-data-standard.html)
 

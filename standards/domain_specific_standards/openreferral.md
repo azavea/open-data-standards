@@ -8,7 +8,8 @@
 | **Documentation** | Documentation: [https://www.openreferral.org/documentation/](https://www.openreferral.org/documentation/) |
 | **Founding/Sponsoring Organizations** | Code for America, Purple Binder, [Ohana Project](http://ohanapi.org/) |
 <br>
-**Background**
+
+## Background
 
 Open Referral is a data structure and API for human services information and referral (I&amp;R) services. It was initiated by the DC Community Resource Project and Code for America. Commercial partners have included both Purple Binder and the Ohana project. Pilot projects using the OpenReferral standard have been launched in Washington DC and San Mateo County, CA.
 
@@ -20,11 +21,11 @@ There are three main components to I&amp;R services: taxonomy, data schema and t
 
 *   _Service Endpoint_ – The Ohana API is perhaps the best example of an OpenReferral API endpoint.
 
-**Analysis**
+## Analysis
 
 The OpenReferral project consists of a stack of standards and specifications for sharing community resource data. The effort began as a project for San Mateo County by a Code for America team in 2013\. The team received a Knight Foundation grant in 2014 to support continued development of both the standard and the Ohana API.
 
-**Additional Resources**
+## Additional Resources
 
 *   Overview slides of OpenReferral: [https://t.co/jSICPg59jx](https://t.co/jSICPg59jx)
 *   Ohana API: [https://github.com/codeforamerica/ohana-api](https://github.com/codeforamerica/ohana-api)

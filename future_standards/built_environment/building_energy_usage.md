@@ -5,7 +5,8 @@
 | **Potential Implementing Agencies** | Building owners and managers |
 | **Potential Founding/Sponsoring Organizations** | Federal Office of Energy Efficiency &amp; Renewable Energy (Energy.gov) |
 <br>
-**Analysis -- Future Potential and Adoption**
+
+## Analysis -- Future Potential and Adoption
 
 Building energy usage is an area of significant interest in many cities. Several cities have now passed building energy benchmarking ordinances and are beginning to report energy usage to the EPA through the [Portfolio Manager application](https://www.energystar.gov/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager). While some cities are beginning to publish the annual energy benchmarking data they are collecting from building owners, there are not yet any standards for doing so. The [House Facts](../../standards/domain_specific_standards/house_facts.md) standard has suggested that this may be part of a future version, but it is not yet part of the House Facts standard.
 
@@ -13,7 +14,7 @@ The EPA is also working on a standard and the development process was launched i
 
 An open standard could include discourse on the usefulness of this data standard, not just in use by the Federal government but by local government agencies and other organizations.
 
-**Additional Resources**
+## Additional Resources
 
 *   [http://energy.gov/eere/buildings/building-energy-data-exchange-specification-bedes](http://energy.gov/eere/buildings/building-energy-data-exchange-specification-bedes)
 *   [http://bedes.lbl.gov/](http://bedes.lbl.gov/)

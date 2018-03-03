@@ -8,11 +8,12 @@
 | **Documentation** | Open Civic Data API:[http://docs.opencivicdata.org/en/latest/api/index.html](http://docs.opencivicdata.org/en/latest/api/index.html) |
 | **Founding/Sponsoring Organizations** | Google, OpenNorth, Sunlight Foundation |
 <br>
-**Background**
+
+## Background
 
 The Open Civic Data project is a collaborative effort to define schemas and provide tools for collecting and disseminating information on government organizations, officials, legislation and events. Building off the work of the OpenStates project, the Sunlight Foundation sought to create a standard that would enable users to more easily digest election and government information. It is not one standard but rather six that cover several aspects of the democratic process. The most active implementations have been related to OCD IDs (divisions).
 
-**Analysis**
+## Analysis
 
 The Open Civic Data project seeks to define a schema for the following:
 
@@ -29,7 +30,7 @@ The Open Civic Data project seeks to define a schema for the following:
 * _Votes_ - The record of a vote taken on a motion, such as a confirmation or passage of a bill.
   * [http://docs.opencivicdata.org/en/latest/proposals/0007.html](http://docs.opencivicdata.org/en/latest/proposals/0007.html)
 
-**Additional Resources**
+## Additional Resources
 
 *   GitHub Repository: [https://github.com/opencivicdata](https://github.com/opencivicdata)
 *   Pupa – software project for scraping OCD data: [https://github.com/opencivicdata/pupa](https://github.com/opencivicdata/pupa)

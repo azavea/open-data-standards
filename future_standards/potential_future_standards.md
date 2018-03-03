@@ -1,10 +1,8 @@
 # Potential Future Standards
 
 * [Built Environment](../future_standards/built_environment/built_environment.md)
-  * [Building Energy Usage](../future_standards/built_environment/building_energy_usage.md)
-  * [Building Permits](../future_standards/built_environment/building_permits.md)
   * [Bicycle Infrastructure and Routes](../future_standards/built_environment/bicycle_infrastructure_and_routes.md)
-
+  * [Building Energy Usage](../future_standards/built_environment/building_energy_usage.md)
   * [Land Use](../future_standards/built_environment/land_use.md)
   * [Parking](../future_standards/built_environment/parking.md)
   * [Safety Inspections](../future_standards/built_environment/safety_inspections.md)
@@ -35,6 +33,3 @@
   * [Business Licenses and Registrations](../future_standards/other_topics/business_licenses_and_registrations.md)
   * [Public Notifications](../future_standards/other_topics/public_notifications.md)
   * [Service Area Boundaries](../future_standards/other_topics/service_area_boundaries.md)
-
-
-

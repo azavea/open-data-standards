@@ -9,7 +9,8 @@
 | **Documentation** | Specification: [https://www.codeforamerica.org/specifications/trails/spec.html](https://www.codeforamerica.org/specifications/trails/spec.html) |
 | **Founding/Sponsoring Organizations** | City of Portland, Code for America, Esri Portland R&amp;D Center, Strava, All Trails, National Recreation and Parks Association, GreenInfo Network, Trust for Public Lands, Intertwine Alliance, Trailhead Labs |
 <br>
-**Background**
+
+## Background
 
 The OpenTrails specification was launched in Northeast Ohio through Code for America. It was later introduced to the Portland, Oregon region at the 2014 National Day of Civic Hacking. Several commercial partners have since helped to introduce to the standard to other locations. The standard covers five data types:
 
@@ -19,11 +20,11 @@ The OpenTrails specification was launched in Northeast Ohio through Code for Ame
 *   Stewards ( CSV)
 *   Areas (optional) – parks and preserves
 
-**Analysis**
+## Analysis
 
 While only introduced in spring 2014, the combination of active participation by several commercial firms, a few government agencies and nonprofit organizations suggests that this standard has a strong future.
 
-**Additional Resources**
+## Additional Resources
 
 *   Data Community Website:[http://www.opentraildata.org/](http://www.opentraildata.org/)
 *   OpnTrails Github Repo: [https://github.com/opentraildata](https://github.com/opentraildata)

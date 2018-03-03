@@ -9,10 +9,11 @@
 | **Documentation** | API: [http://docs.ckan.org/en/latest/api/index.html](http://docs.ckan.org/en/latest/api/index.html) |
 | **Founding/Sponsoring Organizations** | Open Knowledge Foundation |
 <br>
-**Background**
+
+## Background
 
 Open Knowledge Foundation developed the CKAN data catalog over the course of several years. It is the leading open source data catalog and supports many key features. The CKAN API supports all of the key features of CKAN, including retrieving lists of data sets, metadata about each data set, search results, add/update/delete data sets and an activity log.
 
-**Analysis**
+## Analysis
 
 The open source CKAN application is well established with many users, including Data.gov.

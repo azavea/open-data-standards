@@ -9,7 +9,8 @@
 | **Documentation** | See Below |
 | **Founding/Sponsoring Organizations** | Open Geospatial Consortium |
 <br>
-**Background**
+
+## Background
 
 _Web Map Service (WMS) 1.3_
 <br>
@@ -36,7 +37,6 @@ _Web Processing Service (WPS) 1.0_
 Rules for stadardization of inputs and outputs for geospatial processing services are provided by the Web Processing Service (WPS).
 [http://www.opengeospatial.org/standards/wps](http://www.opengeospatial.org/standards/wps)
 
-**Analysis**
+## Analysis
 
 The OGC publishes a broad range of standards, most of which are not widely adopted. However, this core set of web map publishing standards is in broad use in both open source and commercial software tools and continues to provide value and have active communities of people using and improving upon them.
-
