@@ -1,28 +1,28 @@
 /* CSS for GitBook */
 
 .markdown-section h1 {
-    font-size: 1.7em;
+    font-size: 1.7rem;
     margin-top: 1.0em;
     margin-bottom: 1.0;
     font-weight: 500;
 }
 
 .markdown-section h2 {
-    font-size: 1.6em;
+    font-size: 1.6rem;
     margin-top: 1.0em;
     margin-bottom: 0;
     font-weight: 400;
 }
 
 .markdown-section h3 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     margin-top: 0.8em;
     margin-bottom: 0;
     font-weight: 400;
 }
 
 .markdown-section h4 {
-    font-size: 1.4em;
+    font-size: 1.4rem;
     margin-top: 0.75em;
     margin-bottom: 0;
     font-weight: 400;
@@ -34,7 +34,7 @@
     overflow: hidden;
     color: #333;
     line-height: 1.7;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -42,7 +42,7 @@
 }
 
 .markdown-section * {
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 .markdown-section table {
