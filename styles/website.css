@@ -1,52 +1,62 @@
-/* CSS for website */
+/* CSS for GitBook */
 
-.tooltipped.tooltipped-overlay {
-    display: inline-block;
-}
-.tooltipped {
-    display: inline;
-    position: relative;
+.markdown-section h1 {
+    font-size: 1.8em;
 }
 
-.tooltipped:hover:before, .tooltipped.tooltipped-o:before {
-    border: solid;
-    border-color: #4a4e57 transparent;
-    bottom: auto;
-    top: calc(100% + 5px);
-    border-width: 0px 5px 5px 5px;
-    content: "";
+.markdown-section h2 {
+    font-size: 1.6em;
+}
+
+.markdown-section h3 {
+    font-size: 1.5em;
+}
+
+.markdown-section h4 {
+    font-size: 1.4em;
+}
+
+.markdown-section p {
     display: block;
-    left: 50%;
-    position: absolute;
-    z-index: 301;
-    -webkit-transform: translateX(-50%);
-    -moz-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    -o-transform: translateX(-50%);
-    transform: translateX(-50%);
+    word-wrap: break-word;
+    overflow: hidden;
+    color: #333;
+    line-height: 1.7;
+    font-size: 1.4rem;
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
 }
 
-.tooltipped:hover:after, .tooltipped.tooltipped-o:after {
-    line-height: 1em;
-    background: #4a4e57;
-    border-radius: 2px;
-    bottom: auto;
-    top: calc(100% + 10px);
-    color: #fff;
-    content: attr(aria-label);
-    display: block;
-    left: 50%;
-    padding: 5px 5px;
-    position: absolute;
-    white-space: nowrap;
-    z-index: 300;
-    font-size: 13px;
-    text-transform: none;
-    font-weight: 400;
-    pointer-events: none;
-    -webkit-transform: translateX(-50%);
-    -moz-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    -o-transform: translateX(-50%);
-    transform: translateX(-50%);
+.markdown-section table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    overflow: auto;
+    font-size: 1.4rem;
+}
+
+.book-summary ul.summary li a:hover {
+    text-decoration: none;
+    background-color: #eee;
+}
+
+.book-summary ul.summary li.active>a {
+    color: #333;
+    background: 0 0;
+    text-decoration: none;
+    background-color: #cad3d9;
+    font-weight: 600;
+}
+
+.localized-footer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    background-color: #eee;
+    color: #444;
+    font-size: 1.4rem;
+    padding: 20px 20px 10px 10px;
 }
