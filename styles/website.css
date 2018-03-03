@@ -1,19 +1,31 @@
 /* CSS for GitBook */
 
 .markdown-section h1 {
-    font-size: 1.8em;
+    font-size: 1.7em;
+    margin-top: 1.0em;
+    margin-bottom: 1.0;
+    font-weight: 500;
 }
 
 .markdown-section h2 {
     font-size: 1.6em;
+    margin-top: 1.0em;
+    margin-bottom: 0;
+    font-weight: 400;
 }
 
 .markdown-section h3 {
     font-size: 1.5em;
+    margin-top: 0.8em;
+    margin-bottom: 0;
+    font-weight: 400;
 }
 
 .markdown-section h4 {
     font-size: 1.4em;
+    margin-top: 0.75em;
+    margin-bottom: 0;
+    font-weight: 400;
 }
 
 .markdown-section p {
@@ -22,11 +34,15 @@
     overflow: hidden;
     color: #333;
     line-height: 1.7;
-    font-size: 1.4rem;
+    font-size: 1.5em;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
+}
+
+.markdown-section * {
+    font-size: 1.5em;
 }
 
 .markdown-section table {
@@ -36,6 +52,10 @@
     border-spacing: 0;
     overflow: auto;
     font-size: 1.4rem;
+}
+
+thead {
+    display: none;
 }
 
 .book-summary ul.summary li a:hover {
@@ -58,5 +78,5 @@
     background-color: #eee;
     color: #444;
     font-size: 1.4rem;
-    padding: 20px 20px 10px 10px;
+    padding: 10px;
 }
