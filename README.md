@@ -1,6 +1,6 @@
-# Open Data Standards
+# Open Civic Data Standards
 
-<a rel="external" href="https://azavea.gitbooks.io/open-data-standards/content/"><img alt="Open Data Standards GitBook" style="border-width:0" src="images/open-data-standards-tiles.jpg" /></a>
+<a rel="external" href="https://azavea.gitbooks.io/open-data-standards/content/"><img alt="Open Civic Data Standards GitBook" style="border-width:0" src="images/open-data-standards-tiles.jpg" /></a>
 
 ## Prepared by:
 
@@ -34,7 +34,7 @@ Data analysis and visualization are important advocacy tools and have been used 
 
 Open data is more value when it is formatted according to specified standards. Standardizing open data can improve data quality, compatibility with existing applications, and comparisons of data by location. When combined with open source applications, open data standards support the development of an ecosystem of tools that can be used in several locations.
 
-**Success Stories**
+### Success Stories
 
 Since 2005, the [General Transit Feed Specification (GTFS)](standards/domain_specific_standards/general_transit_feed_specification_gtfs.md) has become the common language for transit. Currently, over 700 agencies worldwide have adopted the GTFS standard for reporting public transit schedules. Open source software like OpenTripPlanner uses GTFS and OpenStreetMap data to enable journey planning and routing. The Network Analyst extension for Esri ArcMap also incorporates GTFS data for transit routing. While mainly used for trip planning, GTFS data can also be used for data visualization and maps, measures of accessibility, and timetable creation.
 
@@ -46,13 +46,15 @@ This report is organized into two sections, one for standards that have been rel
 
 The criteria used to select the standards includes the following:
 
- * *Location-based* - Azavea is a geospatial analysis and visualization company, so we have focused on standards that have a location component; that turns out to not limit us very much as the vast majority of data being released by government has a location component to it.
- 
+ * *Location-based* - Azavea is a geospatial analysis and visualization company, so we have focused on standards that have a location component; that turns out to not limit us very much, as the vast majority of data being released by government has a location component to it.
+
  * *Published standard* – Documentation for the specification has been published and is available online.
- 
- * *Machine-readable* - Based on JSON, CSV, XML, or similar structure that can be consumed by software in a consistent, organized way
- 
- * *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data
+
+ * *Machine-readable* - Based on JSON, CSV, XML, or similar structure that can be consumed by software in a consistent, organized way.
+
+ * *Focus on Cities* - Standards for data commonly used by cities that facilitate improved civic processes.
+
+ * *Adoption* - Adopted by at least one large city or heavily used by an aggregator of civic data.
 
 ## What can I do to support open data standards?
 
@@ -66,9 +68,10 @@ There are several ways you can support open data standards.
 
 * Use open data that is published with a standard in a civic hacking project. Build tools that utilize open data standards - prove their utility!
 
-* Contribute to OpenStreetMap through the IDeditor, Humanitarian OpenStreetMap Team Tasking Manager, or at a Missing Maps Mapathon. OpenStreetMap uses several open data standards to provide a free and collaborative map of the world.
+* Contribute to OpenStreetMap through the iD Editor, Humanitarian OpenStreetMap Team Tasking Manager, or at a Missing Maps Mapathon. OpenStreetMap uses several open data standards to provide a free and collaborative map of the world.
 
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br>
 The Open Data Standards Report by <a href="http://www.azavea.com">Azavea</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
