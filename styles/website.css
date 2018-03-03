@@ -1,34 +1,33 @@
 /* CSS for GitBook */
-body {
+.book-body {
     font-size: 62.5%;
 }
-
 
 .markdown-section h1 {
     font-size: 2.4rem;
     margin-top: 1.0em;
     margin-bottom: 1.0;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .markdown-section h2 {
     font-size: 1.9rem;
     margin-top: 1.0em;
-    margin-bottom: 0;
+    margin-bottom: 0.35em;
     font-weight: 400;
 }
 
 .markdown-section h3 {
     font-size: 1.75rem;
     margin-top: 0.8em;
-    margin-bottom: 0;
+    margin-bottom: 0.25em;
     font-weight: 400;
 }
 
 .markdown-section h4 {
     font-size: 1.5rem;
     margin-top: 0.75em;
-    margin-bottom: 0;
+    margin-bottom: 0.2em;
     font-weight: 400;
 }
 
@@ -49,7 +48,7 @@ body {
     font-size: 1.5rem;
 }
 
-.markdown-section table {
+table {
     display: table;
     width: 100%;
     border-collapse: collapse;
