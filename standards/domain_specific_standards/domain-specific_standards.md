@@ -2,9 +2,9 @@
 
 ## Domain-specific Standards
 
-* [360 Giving](standards/domain_specific_standards/360giving.md)
+* [360 Giving](/standards/domain_specific_standards/360giving.md)
 * [Akoma Ntoso](standards/domain_specific_standards/akoma_ntoso.md)
-* [Building & Land Development Specification (BLDS)](standards/domain_specific_standards/building_land_development_specification_blds.md)
+* [Building & Land Development Specification \(BLDS\)](standards/domain_specific_standards/building_land_development_specification_blds.md)
 * [Common Alerting Protocol](standards/domain_specific_standards/common_alerting_protocol.md)
 * [Election Markup Language \(EML\)](standards/domain_specific_standards/election_markup_language_eml.md)
 * [General Bikeshare Feed](standards/domain_specific_standards/general_bikeshare_feed.md)
@@ -23,3 +23,6 @@
 * [Popolo](standards/domain_specific_standards/popolo.md)
 * [SharedStreets](standards/domain_specific_standards/sharedstreets.md)
 * [Voting Information Project \(VIP\)](standards/domain_specific_standards/voting_information_project_vip.md)
+
+
+
