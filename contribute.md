@@ -4,6 +4,12 @@ We encourage anyone who is interested to contribute to this documentation. This 
 
 Reach out to us via the [Azavea contact page](https://www.azavea.com/contact-us/) if you would like to ask questions, voice concerns, or propose improvements to this document.
 
+You can also contribute directly to the project by forking the repository and submitting a Pull Request on GitHub.
+
+GitHub repository: [https://github.com/azavea/open-data-standards](https://github.com/azavea/open-data-standards)
+
+Read the contribution guidelines below before contributing directly to the project.
+
 ## How to Contribute
 
 ### Git Branching Model
@@ -18,15 +24,12 @@ We follow the 'imperative present tense' style for commit messages. \(e.g.
 
 ### Issue Tracking
 
-If you find an error in the text or a missing standard,  please navigate to the relevant file location and create  
+If you find an error in the text or a missing standard, please navigate to the relevant file location and create  
 an issue.
 
 ### Pull Requests
 
-If you'd like to submit a code contribution please fork `open-data-standards` and send  
-us pull request against the `master` branch. Like any other open source  
-project, we might ask you to go through some discussion and  
-refinement before merging.
+If you'd like to submit a code contribution please fork `open-data-standards` and send us pull request against the `master` branch. Like any other open source project, we might ask you to go through some discussion and refinement before merging.
 
 ## Ways to Contribute
 
