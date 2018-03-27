@@ -41,7 +41,6 @@
 * [Potential Future Standards](future_standards/potential_future_standards.md)
     * [Built Environment](future_standards/built_environment/built_environment.md)
         * [Building Energy Usage](future_standards/built_environment/building_energy_usage.md)
-        * [Building Permits](future_standards/built_environment/building_permits.md)
         * [Bicycle Infrastructure and Routes](future_standards/built_environment/bicycle_infrastructure_and_routes.md)
         * [Land Use](future_standards/built_environment/land_use.md)
         * [Parking](future_standards/built_environment/parking.md)

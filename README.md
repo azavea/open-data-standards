@@ -60,16 +60,17 @@ The criteria used to select the standards includes the following:
 
 There are several ways you can support open data standards.
 
-* Contact the Open Data Officer for your city to learn about the ways that open data standards are being used in your region.
-
 * Explore the open data portal for your city. If you see open data that is not published to a standard, use the contact information provided on the open data portal to notify the team or contact the government department that manages data efforts.
+
+* Contact the Open Data Officer for your city to learn about the ways that open data standards are being used in your region. You can find lists of Open Data Officers and open data repositories in the [OpenDataVote Guide](https://www.opendatavote.org/guide#resources) (more below).
+
+* Coordinate with local open data advocates to encourage your government to publish open data by running your own [OpenDataVote](https://www.opendatavote.org/). Read the [OpenDataVote Guide for step by steps instructions](https://www.opendatavote.org/guide)!
 
 * [Find your local elected officials](https://live.cicerodata.com/) and contact them to tell them about the importance of supporting open data standards.
 
 * Use open data that is published with a standard in a civic hacking project. Build tools that utilize open data standards - prove their utility!
 
-* Contribute to OpenStreetMap through the iD Editor, Humanitarian OpenStreetMap Team Tasking Manager, or at a Missing Maps Mapathon. OpenStreetMap uses several open data standards to provide a free and collaborative map of the world.
-
+* Contribute to OpenStreetMap through the iD Editor, Humanitarian OpenStreetMap Team Tasking Manager, or at a Missing Maps Mapathon. OpenStreetMap uses several open data standards to provide a free and collaborative map of the world. [Join our HOTLunch initiative to volunteer for these impactful nonprofits](https://www.azavea.com/blog/2017/10/02/hotlunch-volunteer-lunch-break-support-disaster-relief-efforts/)!
 
 ## License
 
